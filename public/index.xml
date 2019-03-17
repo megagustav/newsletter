@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsletter</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Newsletter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Mar 2019 17:14:20 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>In the fallible real world</title>
+      <link>http://example.org/posts/001/</link>
+      <pubDate>Mon, 04 Mar 2019 17:14:20 +0100</pubDate>
+      
+      <guid>http://example.org/posts/001/</guid>
+      <description>DRAFT</description>
+    </item>
+    
+    <item>
+      <title>A Louis XVI ballroom for improvement</title>
+      <link>http://example.org/posts/000/</link>
+      <pubDate>Sat, 16 Feb 2019 17:14:20 +0100</pubDate>
+      
+      <guid>http://example.org/posts/000/</guid>
+      <description>Wishes are in order — congratulations or condolences, I don&amp;rsquo;t know.</description>
+    </item>
+    
+  </channel>
+</rss>
