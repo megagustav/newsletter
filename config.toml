@@ -1,8 +1,0 @@
-baseURL = "https://github.com/megagustav/newsletter/"
-languageCode = "en-uk"
-title = "Newsletter"
-theme = "ananke"
-summaryLength = 30
-
-[taxonomies]
-  tag = "tags"
