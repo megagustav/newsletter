@@ -42,13 +42,9 @@ Gustav</p>
     <li class="article_title">
       <div class="inline"><h2 class="index">004</h2></div>
       <div class="inline">
-        <h2 class="article_title_list"><a class="article_title unpublished" href="#004">No Title Yet</a></h2>
-        <h4 class="date">October 7th, 2019</h4>
+        <h2 class="article_title_list"><a class="article_title unpublished" href="issues/004">Down the Esoteric Rabbit Hole</a></h2>
+        <h4 class="date">March 5th, 2020</h4>
       </div>
-    </li>
-  
-    <li class="article_title">
-      <div class="inline"><h2 class="index">–––</h2></div>
     </li>
     
     <li class="article_title">
