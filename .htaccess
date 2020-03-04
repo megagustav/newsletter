@@ -1,2 +1,2 @@
-# Rewrites all URLS without blog in them
+# Rewrites all URLS without [issues] in them
 RewriteCond %{REQUEST_URI} !^/issues/
