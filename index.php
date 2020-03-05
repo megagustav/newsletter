@@ -43,7 +43,7 @@ Gustav</p>
       <div class="inline"><h2 class="index">005</h2></div>
       <div class="inline">
         <h2 class="article_title_list"><a class="article_title unpublished" href="issues/005">Draft</a></h2>
-        <h4 class="date">April 20th, 2020</h4>
+        <h4 class="date">(Maybe) April 20th, 2020</h4>
       </div>
     </li>
   

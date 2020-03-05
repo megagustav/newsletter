@@ -20,7 +20,7 @@
 
 <h2>Reading List</h2>
 
-<p><a href="https://www.reidreviews.com/examples/yes.html">Yes, it Matters</a> by Sean Reid</p>
+<p><a href="https://www.reidreviews.com/examples/yes.html">Yes, it Matters</a> by Sean Reid</p>:
 
 <blockquote>
 <p>I think that many of us of might agree that our tools, in and of themselves, will not make the work we do great or mediocre, competent or laughable. Of course, great work in any field is done, first and foremost, with the mind and the body. Yet, it is a mistake to extrapolate from this fact that one's tools do not matter. </p>
