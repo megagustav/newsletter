@@ -3,7 +3,7 @@
 <body>
 <section class="single">
 
-<h1><a class="logo back" href="/"><i class="far fa-arrow-circle-left"></i> Back</a></h1>
+<h1><a class="logo back" href="../../"><i class="far fa-arrow-circle-left"></i> Back</a></h1>
 
       <div class="inline">
         <h2 class="article_title_list article_title single">The 2020 Powerbook G4</h2>
