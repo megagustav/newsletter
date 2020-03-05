@@ -1,6 +1,0 @@
-# Rewrites all URLS without [issues] in them
-# RewriteCond %{REQUEST_URI} !^/issues/
-
-# RewriteEngine on
-# RewriteBase /
-# RewriteRule ^index\.html?$ / [NC,R,L]
