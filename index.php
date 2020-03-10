@@ -51,7 +51,7 @@ Gustav</p>
       <div class="inline"><h2 class="index">004</h2></div>
       <div class="inline">
         <h2 class="article_title_list"><a class="article_title" href="issues/004">Down the Esoteric Rabbit Hole</a></h2>
-        <h4 class="date">March 5th, 2020</h4>
+        <h4 class="date">March 10th, 2020</h4>
       </div>
     </li>
     
