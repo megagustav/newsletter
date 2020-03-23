@@ -411,19 +411,23 @@ ol {
  * Table Styles
  */
 
-	table {
-		border-collapse: collapse;
-		width: 100%;
-	}
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
 
-	td, th {
-		text-align: left;
-		padding: 0.5em;
-	}
+th {
+	text-transform: uppercase;
+}
 
-	tr:nth-child(even) {
-		background-color: #eee;
-	}
+td, th {
+	text-align: left;
+	padding: 0.5em;
+}
+
+tr:nth-child(even) {
+	background-color: #eee;
+}
 
 
 

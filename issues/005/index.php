@@ -14,9 +14,9 @@
 		<p>The first stage was to collect words that fit in these three categories. At a later stage, we can combine each column into a comprehensive definition and establish a functioning cognitive model.</p>
 		<table>
 			<tr>
-				<th>FUNCTION</th>
-				<th>RITUAL</th>
-				<th>MYTH</th>
+				<th>Function</th>
+				<th>Ritual</th>
+				<th>Myth</th>
 			</tr>
 			<tr>
 				<td>What?</td>
