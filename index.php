@@ -40,10 +40,19 @@ Gustav</p>
   <ul>
 
     <li class="article_title">
-      <div class="inline"><h2 class="index">005</h2></div>
+      <div class="inline"><h2 class="index">006</h2></div>
       <div class="inline">
         <h2 class="article_title_list"><a class="article_title unpublished" href="#">Draft</a></h2>
-        <h4 class="date">(Maybe) April 20th, 2020</h4>
+        <h4 class="date">unpublished</h4>
+      </div>
+    </li>
+
+
+    <li class="article_title">
+      <div class="inline"><h2 class="index">005</h2></div>
+      <div class="inline">
+        <h2 class="article_title_list"><a class="article_title" href="issues/005">Preliminary Word List</a></h2>
+        <h4 class="date">March 23rd, 2020</h4>
       </div>
     </li>
   
