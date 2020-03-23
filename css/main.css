@@ -407,6 +407,24 @@ ol {
   -webkit-padding-start: 1.2em;
 }
 
+/*
+ * Table Styles
+ */
+
+	table {
+		border-collapse: collapse;
+		width: 100%;
+	}
+
+	td, th {
+		text-align: left;
+		padding: 0.5em;
+	}
+
+	tr:nth-child(even) {
+		background-color: #eee;
+	}
+
 
 
 
