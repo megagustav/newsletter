@@ -6,9 +6,9 @@
 <h1 class="logo"><i class="far fa-dot-circle"></i> Notes</h1>
 
   <!-- Add your site or application content here -->
-  <p>Welcome dear reader,<br><br>
+  <p>Design for Meaning Journal:<br><br>
 
-This is a little newsletter experiment about User Experience — Design, Research, Critique, Compliments. I'm committing to analysis more than hot takes, going into an issue or two or three woven together by a narrative arc, usually around 8-minute reads.<br><br>
+While researching for the Design for Meaning Toolkit, I need a place to collect information and thoughts thereon. This is an open place. Notes are available as little newsletters about Design, Research, Critique, etc.<br><br>
 
 The goal is to have a conversation. I send you a message and hopefully spark something to inspire a reply. If you're keen to join me and a handful of others in this, you can sign up below.<br><br>
 
