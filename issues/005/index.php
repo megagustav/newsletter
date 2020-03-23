@@ -71,6 +71,11 @@
 				<td></td>
 				<td>Feeling</td>
 			</tr>	
+			<tr>
+				<td></td>
+				<td></td>
+				<td>Interpretation</td>
+			</tr>
 		</table>
 		
 		<h3>Notes on Articles</h3>
@@ -81,7 +86,11 @@
 		<p>&mdash; we need to make sure that what we're producing deserves to exist and either adds value to established models or disproves them.</p>
 		<p>Models: "Model of Design", an encompassing guide for other models from communication to psychology. The artefact can be a medium. "rendering design more intelligible to non-designers". </p>
 		<blockquote><p>This variety of interpretations is relevant not just to the physical products of industrial design, but also to the forms and spaces of architecture, the user interfaces of software applications, and the outputs of many other design activities.</p></blockquote>
-		<p></p>
+		<p>Features elicit (sometimes intended) interpretations. Interpretations cannot be controlled because people have different preexisting conditions. Different priming.</p>
+		<p>Designers are separated from users. Models exist to connect their worlds but vary in accuracy and efficacy of bridging the cognitive gap. We're looking at words that can be used by both designers and users to communicate and transfer knowledge and understanding of the product. The meaning of the product is highly personal, but is it predictable? Can we build a guide with a universal lexicon, repeatable steps to elicit a meaning for the target consumer, and with a permanent standing in the world of design research?</p>
+		
+		<h3>Further Reading</h3>
+		<p><a href="http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp">The Semiotic Process and the Classification of Signs</a> by Umberto Eco</p>
 
 <hr />
 
