@@ -424,7 +424,7 @@ ol {
  */
 
 table {
-	overflow-x: scroll;
+	overflow: scroll;
 	border-collapse: collapse;
 	width: 100%;
 }
