@@ -3,12 +3,14 @@
 <body>
 <section class="single">
 
-<h1><a class="logo back" href="../../"><i class="far fa-arrow-circle-left"> </i>Back</a></h1>
+<h1><a class="logo back" href="../../"><i class="far fa-arrow-circle-left"></i> Back</a></h1>
 
       <div class="inline">
-        <h2 class="article_title_list article_title single">Phase: Preliminary Research</h2>
+        <h2 class="article_title_list article_title single">Design for Meaning Journal</h2>
         <h4>Updated March 24th, 2020</h4>
       </div>
+      
+      <h2 class="article_title_list article_title single">Phase I: Preliminary Research</h2>
 
 		<p>This preliminary research stems from reading articles on mnemonic devices and work rituals with the goal of extracting practical semantics for everyday people for <i>function</i>, <i>ritual</i> and <i>myth</i>.</p>
 		<p>The first stage was to collect words that fit in these three categories. At a later stage, we can combine each column into a comprehensive definition and establish a functioning cognitive model.</p>
@@ -164,7 +166,7 @@
 <hr />
 
 
-<h1><a class="logo back" href="/"><i class="far fa-arrow-circle-left"> </i>Back</a></h1>
+<h1><a class="logo back" href="/"><i class="far fa-arrow-circle-left"></i> Back</a></h1>
   
 </section>
 
