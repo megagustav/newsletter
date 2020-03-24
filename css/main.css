@@ -383,6 +383,10 @@ h6 { /* source title in paragraph */
   font-weight: normal;
 }
 
+mark {
+	padding: 0.2em;
+}
+
 li.article_title {
   margin-bottom: 0.7em;
 }
