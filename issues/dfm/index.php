@@ -40,6 +40,16 @@
 				<td>(noun) an exaggerated or idealized conception of a person or thing <a class="footnote" href="#fn8">[8]</a></td>
 			</tr>
 			<tr>
+				<td>Responsibility, Use, Duty, Activity, Job <a class="footnote" href="#fn8">[8]</a></td>
+				<td>Performance, Practise, Convention, Procedure <a class="footnote" href="#fn8">[8]</a></td>
+				<td>Story, Fiction, Tale <a class="footnote" href="#fn8">[8]</a></td>
+			</tr>
+			<tr>
+				<td>≠ Idleness, Fun, Inertia <a class="footnote" href="#fn13">[13]</a></td>
+				<td>≠ Neglect, Disagreement, Discord <a class="footnote" href="#fn13">[13]</a></td>
+				<td>≠ Fact, Reality, Certainty<a class="footnote" href="#fn13">[13]</a></td>
+			</tr>
+			<tr>
 				<td>the action for which a person or thing is specially fitted or used or for which a thing exists <a class="footnote" href="#fn10">[10]</a></td>
 				<td>a usual manner of behaving or doing <a class="footnote" href="#fn10">[10]</a></td>
 				<td>the body of customs, beliefs, stories, and sayings associated with a people, thing, or place <a class="footnote" href="#fn10">[10]</a></td>
@@ -183,6 +193,8 @@
 		<p>10) <a id="fn10" href="https://www.merriam-webster.com">Merriam-Webster, (2020) Merriam-Webster.com Thesaurus, s.v. </a> (Dictionary) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
 		<p>11) <a id="fn11" href="https://www.academia.edu/3069886/Dreyfus_H._and_S._D._Kelly_All_Things_Shining_Reading_the_Western_Classics_to_Find_Meaning_in_a_Secular_Age_2011_">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press</a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
 		<p>12) <a id="fn12" href="http://www.ijdesign.org/index.php/IJDesign/article/view/1382/613">Cita, N., Hekkert, P. & Visch, V. (2014). Source Selection in Product Metaphor Generation. International Journal of Design, 8(1), 15-28</a> (Website) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
+		<p>13) <a id="fn13" href="https://www.thesaurus.com">thesaurus.com</a> (Website) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
+		
 
 <hr />
 
