@@ -143,7 +143,10 @@
 		
 		<h6 id="art2">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press <a href="#art2"><i class="far fa-link"></i></a> <a href="#fn11"><i class="far fa-long-arrow-down"></i></a></h6>
 		<blockquote><p>The task of a craftsman it not to generate meaning but rather to cultivate in himself the skill of discerning the meanings that are already there.</p></blockquote>
-		<p><i>"This frees the craftsman of the nihilism of autonomous individualism, providing an ordered world of meaning."</i> &mdash; The artefact is a communication medium in a dialogue between designer and user. By gathering data from different cultures and contexts, we can potentially outweigh the Enlightenment's <i>individual</i>. </p>
+		
+		<hr />
+		
+		<p>Back to Crilly et al.: <i>"This frees the craftsman of the nihilism of autonomous individualism, providing an ordered world of meaning."</i> &mdash; The artefact is a communication medium in a dialogue between designer and user. By gathering data from different cultures and contexts, we can potentially outweigh the Enlightenment's <i>individual</i>. </p>
 		<blockquote><p>Another issue muddying the connection between depth and meaning in knowledge work is the cacophony of voices attempting to convince knowledge workers to spend more time engaged in shallow activities.</p>
 		<p>Just because this connection between depth and meaning is less clear in knowledge work, however, doesn’t mean that it’s nonexistent.</p>
 		<p>It’s clear that by embracing depth over shallowness you can tap the veins of meaning.</p></blockquote>
