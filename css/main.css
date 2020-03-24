@@ -384,7 +384,7 @@ h6 { /* source title in paragraph */
 }
 
 mark {
-	color: #FF6700;
+	background-color: #FF6700;
 }
 
 li.article_title {
