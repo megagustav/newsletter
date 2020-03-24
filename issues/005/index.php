@@ -36,49 +36,14 @@
 				<td>(noun) an exaggerated or idealized conception of a person or thing <a class="footnote" href="#fn8">[8]</a></td>
 			</tr>
 			<tr>
-				<td>Task</td>
-				<td>Process</td>
-				<td>Motivation</td>
+				<td>the action for which a person or thing is specially fitted or used or for which a thing exists <a class="footnote" href="#fn10">[10]</a></td>
+				<td>a usual manner of behaving or doing <a class="footnote" href="#fn10">[10]</a></td>
+				<td>the body of customs, beliefs, stories, and sayings associated with a people, thing, or place <a class="footnote" href="#fn10">[10]</a></td>
 			</tr>
 			<tr>
-				<td>Human cognition</td>
-				<td>Interaction</td>
-				<td>Knowledge-carrying artefact</td>
-			</tr>
-			<tr>
-				<td>Tool</td>
-				<td>Entertainment</td>
-				<td>Insight</td>
-			</tr>
-			<tr>
-				<td>Feature</td>
-				<td>Practise</td>
-				<td>Ideology</td>
-			</tr>
-			<tr>
-				<td>Perception</td>
-				<td>Habit</td>
-				<td>Internalisation</td>
-			</tr>
-			<tr>
-				<td>Useable</td>
-				<td>A joy to use</td>
-				<td>Value</td>
-			</tr>	
-			<tr>
-				<td>Having</td>
-				<td>Doing</td>
-				<td>Being / Feeling</td>
-			</tr>	
-			<tr>
-				<td>Factual</td>
-				<td>Rhythmic</td>
-				<td>Interpretation</td>
-			</tr>
-			<tr>
-				<td>Physical</td>
-				<td>Temporal</td>
-				<td>Cultural</td>
+				<td>Purpose, Capacity, Role, Task <a class="footnote" href="#fn10">[10]</a></td>
+				<td>Ceremony, Custom, Habit, Pattern  <a class="footnote" href="#fn10">[10]</a></td>
+				<td>Legend, Folklore, Tradition <a class="footnote" href="#fn10">[10]</a></td>
 			</tr>
 		</table>
 		
@@ -193,6 +158,8 @@
 		<p>6) <a id="fn6" href="https://ia800909.us.archive.org/13/items/DeepWorkRulesForFocusedSuccessInADistractedWorldPDFEngbbopdf.com/Deep%20Work%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World%20PDF%20engbbopdf.com.pdf">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27</a> (PDF)</p>
 		<p>7) <a id="fn7" href="https://andymatuschak.org/books/">Matuschak, A., (2019). Why books don’t work. San Francisco</a> (Website)</p>
 		<p>8) <a id="fn8">New Oxford American Dictionary (2020)</a> (Dictionary)</p>
+		<p>9) <a id="fn9">Oxford Dictionary of English (2020)</a> (Dictionary)</p>
+		<p>10) <a id="fn10" href="https://www.merriam-webster.com">Merriam-Webster, (2020) Merriam-Webster.com Thesaurus, s.v. </a> (Dictionary)</p>
 
 <hr />
 
