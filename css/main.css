@@ -435,6 +435,7 @@ th {
 td, th {
 	text-align: left;
 	padding: 0.5em;
+	width: 33%;
 }
 
 tr:nth-child(even) {
