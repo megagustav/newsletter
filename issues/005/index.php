@@ -19,11 +19,6 @@
 		different sources
 		synonyms and antonyms 
 		
-		
-		<h3 id="wordlist">Subjective Word List</h3>
-		
-		<p>How was this achieved???</p>
-
 		<table>
 			<tr>
 				<th>Function</th>
@@ -31,14 +26,14 @@
 				<th>Myth</th>
 			</tr>
 			<tr>
-				<td>What?</td>
-				<td>How?</td>
-				<td>Why?</td>
+				<td>(noun) an activity or purpose natural to or intended for a person or thing <a class="footnote" href="#fn8">[8]</a></td>
+				<td>(noun) a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order <a class="footnote" href="#fn8">[8]</a></td>
+				<td>(noun) a traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon, and typically involving supernatural beings or events <a class="footnote" href="#fn8">[8]</a></td>
 			</tr>
 			<tr>
-				<td>Problem-solving</td>
-				<td>Enjoying the use</td>
-				<td>Personal fulfilment</td>
+				<td>(verb) work or operate in a proper or particular way <a class="footnote" href="#fn8">[8]</a></td>
+				<td>(adjective) arising from convention or habit <a class="footnote" href="#fn8">[8]</a></td>
+				<td>(noun) an exaggerated or idealized conception of a person or thing <a class="footnote" href="#fn8">[8]</a></td>
 			</tr>
 			<tr>
 				<td>Task</td>
@@ -87,6 +82,74 @@
 			</tr>
 		</table>
 		
+		
+		<h3 id="wordlist">Subjective Word List</h3>
+		
+		<p>The following words were collected by reading various articles and books or from memory. N.B.: Their allocation isn't necessarily 100% rigid.</p>
+
+		<table>
+			<tr>
+				<th>Function</th>
+				<th>Ritual</th>
+				<th>Myth</th>
+			</tr>
+			<tr>
+				<td>What?</td>
+				<td>How?</td>
+				<td>Why?</td>
+			</tr>
+			<tr>
+				<td>Problem-solving</td>
+				<td>Enjoying the use</td>
+				<td>Personal fulfilment</td>
+			</tr>
+			<tr>
+				<td>Task</td>
+				<td>Process</td>
+				<td>Motivation</td>
+			</tr>
+			<tr>
+				<td>Human cognition <a class="footnote" href="#fn7">[7]</a></td>
+				<td>Interaction <a class="footnote" href="#fn7">[7]</a></td>
+				<td>Knowledge-carrying artefact <a class="footnote" href="#fn7">[7]</a></td>
+			</tr>
+			<tr>
+				<td>Tool <a class="footnote" href="#fn7">[7]</a></td>
+				<td>Entertainment <a class="footnote" href="#fn7">[7]</a></td>
+				<td>Insight <a class="footnote" href="#fn7">[7]</a></td>
+			</tr>
+			<tr>
+				<td>Feature</td>
+				<td>Practise</td>
+				<td>Ideology</td>
+			</tr>
+			<tr>
+				<td>Perception</td>
+				<td>Habit</td>
+				<td>Internalisation <a class="footnote" href="#fn5">[5]</a></td>
+			</tr>
+			<tr>
+				<td>Useable</td>
+				<td>A joy to use</td>
+				<td>Value</td>
+			</tr>	
+			<tr>
+				<td>Having</td>
+				<td>Doing</td>
+				<td>Being / Feeling</td>
+			</tr>	
+			<tr>
+				<td>Factual</td>
+				<td>Rhythmic</td>
+				<td>Interpretation <a class="footnote" href="#fn6">[6]</a></td>
+			</tr>
+			<tr>
+				<td>Physical <a class="footnote" href="#fn6">[6]</a></td>
+				<td>Temporal <a class="footnote" href="#fn6">[6]</a></td>
+				<td>Cultural <a class="footnote" href="#fn6">[6]</a></td>
+			</tr>
+		</table>
+		
 		<h3>Notes on Articles</h3>
 
 		<h5 id="1">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27</h5> <a href="#1">#</a>
@@ -121,12 +184,15 @@
 		<p><i>"The meaning uncovered by such efforts is due to the skill and appreciation inherent in craftsmanship—not the outcomes of their work. Put another way, a wooden wheel is not noble, but its shaping can be."</i> &mdash; The wheel isn't special, but <i>this one</i> is.</p>
 		<p>Cal Newport's book is about the meaning people find in their work, but the uses of the word can be interesting for the research on Design for Meaning.</p>
 		
-		<h3>Further Reading</h3>
-		<p>1) <a href="http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp">The Semiotic Process and the Classification of Signs by Umberto Eco (Website)</a></p>
-		<p>2) <a href="https://books.google.de/books?id=qi0enwGEeYYC&pg=PA18&lpg=PA18&dq=de+Souza,+C.+S.+(2005).+The+semiotic+engineering+of+human-computer+interaction.+Cambridge,+MA:+The+MIT+Press&source=bl&ots=vdeBquCVZ6&sig=ACfU3U1aXhHUbulE2eWgdLXg8Y73Q-iK8w&hl=en&sa=X&redir_esc=y#v=onepage&q=de%20Souza%2C%20C.%20S.%20(2005).%20The%20semiotic%20engineering%20of%20human-computer%20interaction.%20Cambridge%2C%20MA%3A%20The%20MIT%20Press&f=false">de Souza, C. S. (2005). The semiotic engineering of human-computer interaction. Cambridge, MA: The MIT Press (Google Books)</a></p>
-		<p>3) <a href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.4950&rep=rep1&type=pdf">de Souza, C. S. (2003). Semiotic engineering: bringing designers and users together at interaction time. Departamento de Informàtica, PUC-Rio, Brazil (PDF)</a></p>
-		<p>4) <a href="https://link.springer.com/content/pdf/10.1007/978-0-387-34732-5_21.pdf">de Souza, C. S. (2006?). Semiotic Engineering - A New Paradigm for Designing Interactive Systems. Departamento de Informàtica, PUC-Rio, Brazil (PDF)</a></p>
-		<p>5) <a href="https://ia800909.us.archive.org/13/items/DeepWorkRulesForFocusedSuccessInADistractedWorldPDFEngbbopdf.com/Deep%20Work%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World%20PDF%20engbbopdf.com.pdf">Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World. Hachette (PDF)</a>, <a href="https://download.audible.com/product_related_docs/BK_TWUK_001123.pdf">Notes by the Author (PDF)</a></p>
+		<h3>Footnotes</h3>
+		<p>1) <a id="fn1" href="http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp">The Semiotic Process and the Classification of Signs by Umberto Eco</a> (Website)</p>
+		<p>2) <a id="fn2" href="https://books.google.de/books?id=qi0enwGEeYYC&pg=PA18&lpg=PA18&dq=de+Souza,+C.+S.+(2005).+The+semiotic+engineering+of+human-computer+interaction.+Cambridge,+MA:+The+MIT+Press&source=bl&ots=vdeBquCVZ6&sig=ACfU3U1aXhHUbulE2eWgdLXg8Y73Q-iK8w&hl=en&sa=X&redir_esc=y#v=onepage&q=de%20Souza%2C%20C.%20S.%20(2005).%20The%20semiotic%20engineering%20of%20human-computer%20interaction.%20Cambridge%2C%20MA%3A%20The%20MIT%20Press&f=false">de Souza, C. S. (2005). The semiotic engineering of human-computer interaction. Cambridge, MA: The MIT Press</a> (Google Books)</p>
+		<p>3) <a id="fn3" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.4950&rep=rep1&type=pdf">de Souza, C. S. (2003). Semiotic engineering: bringing designers and users together at interaction time. Departamento de Informàtica, PUC-Rio, Brazil</a> (PDF)</p>
+		<p>4) <a id="fn4" href="https://link.springer.com/content/pdf/10.1007/978-0-387-34732-5_21.pdf">de Souza, C. S. (2006?). Semiotic Engineering - A New Paradigm for Designing Interactive Systems. Departamento de Informàtica, PUC-Rio, Brazil</a> (PDF)</p>
+		<p>5) <a id="fn5" href="https://ia800909.us.archive.org/13/items/DeepWorkRulesForFocusedSuccessInADistractedWorldPDFEngbbopdf.com/Deep%20Work%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World%20PDF%20engbbopdf.com.pdf">Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World. Hachette</a> (PDF), <a href="https://download.audible.com/product_related_docs/BK_TWUK_001123.pdf">Notes by the Author </a> (PDF)</p>
+		<p>6) <a id="fn6" href="https://ia800909.us.archive.org/13/items/DeepWorkRulesForFocusedSuccessInADistractedWorldPDFEngbbopdf.com/Deep%20Work%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World%20PDF%20engbbopdf.com.pdf">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27</a> (PDF)</p>
+		<p>7) <a id="fn7" href="https://andymatuschak.org/books/">Matuschak, A., (2019). Why books don’t work. San Francisco</a> (Website)</p>
+		<p>8) <a id="fn8">New Oxford American Dictionary (2020)</a> (Dictionary)</p>
 
 <hr />
 

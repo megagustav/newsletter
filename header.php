@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Notes on User Experience</title>
+  <title>Design for Meaning Journal</title>
   <meta name="description" content="A monthly Newsletter on User Experience">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   
