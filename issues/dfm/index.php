@@ -121,7 +121,7 @@
 		
 		<h3>Notes on Articles</h3>
 
-		<h6 id="art1 fn6r">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27 <a href="#art1"><i class="far fa-link"></i></a> <a href="#fn6"><i class="far fa-long-arrow-down"></i></a></h6>
+		<h6 id="art1">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27 <a href="#art1"><i class="far fa-link"></i></a> <a href="#fn6"><i class="far fa-long-arrow-down"></i></a></h6>
 		<p>There are many different models connecting designers and consumers, yet there are largely disconnected. <a href="https://www.xkcd.com/927/">XKCD Comic about Standards</a></p>
 		<blockquote><p>Unnecessary effort is expended in developing representations that duplicate those that already exist, [and] new models are developed from inappropriate foundations.</p></blockquote>
 		<p>&mdash; we need to make sure that what we're producing deserves to exist and either adds value to established models or disproves them.</p>
@@ -141,7 +141,7 @@
 		
 		<hr />
 		
-		<h6 id="art2">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press <a href="#art2"><i class="far fa-link"></i></a></h6>
+		<h6 id="art2">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press <a href="#art2"><i class="far fa-link"></i></a> <a href="#fn11"><i class="far fa-long-arrow-down"></i></a></h6>
 		<blockquote><p>The task of a craftsman it not to generate meaning but rather to cultivate in himself the skill of discerning the meanings that are already there.</p></blockquote>
 		<p><i>"This frees the craftsman of the nihilism of autonomous individualism, providing an ordered world of meaning."</i> &mdash; The artefact is a communication medium in a dialogue between designer and user. By gathering data from different cultures and contexts, we can potentially outweigh the Enlightenment's <i>individual</i>. </p>
 		<blockquote><p>Another issue muddying the connection between depth and meaning in knowledge work is the cacophony of voices attempting to convince knowledge workers to spend more time engaged in shallow activities.</p>
@@ -161,11 +161,12 @@
 		<p>3) <a id="fn3" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.4950&rep=rep1&type=pdf">de Souza, C. S. (2003). Semiotic engineering: bringing designers and users together at interaction time. Departamento de Informàtica, PUC-Rio, Brazil</a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
 		<p>4) <a id="fn4" href="https://link.springer.com/content/pdf/10.1007/978-0-387-34732-5_21.pdf">de Souza, C. S. (2006?). Semiotic Engineering - A New Paradigm for Designing Interactive Systems. Departamento de Informàtica, PUC-Rio, Brazil</a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
 		<p>5) <a id="fn5" href="https://ia800909.us.archive.org/13/items/DeepWorkRulesForFocusedSuccessInADistractedWorldPDFEngbbopdf.com/Deep%20Work%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World%20PDF%20engbbopdf.com.pdf">Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World. Hachette</a> (PDF), <a href="https://download.audible.com/product_related_docs/BK_TWUK_001123.pdf">Notes by the Author </a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
-		<p>6) <a id="fn6" href="https://ia800909.us.archive.org/13/items/DeepWorkRulesForFocusedSuccessInADistractedWorldPDFEngbbopdf.com/Deep%20Work%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World%20PDF%20engbbopdf.com.pdf">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27</a> (PDF) <a class="footnote-back" href="/fn6r">↩</a></p>
+		<p>6) <a id="fn6" href="https://ia800909.us.archive.org/13/items/DeepWorkRulesForFocusedSuccessInADistractedWorldPDFEngbbopdf.com/Deep%20Work%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World%20PDF%20engbbopdf.com.pdf">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27</a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
 		<p>7) <a id="fn7" href="https://andymatuschak.org/books/">Matuschak, A., (2019). Why books don’t work. San Francisco</a> (Website)</p>
 		<p>8) <a id="fn8">New Oxford American Dictionary (2020)</a> (Dictionary) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
 		<p>9) <a id="fn9">Oxford Dictionary of English (2020)</a> (Dictionary) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
 		<p>10) <a id="fn10" href="https://www.merriam-webster.com">Merriam-Webster, (2020) Merriam-Webster.com Thesaurus, s.v. </a> (Dictionary) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
+		<p>11) <a id="fn11" href="https://www.academia.edu/3069886/Dreyfus_H._and_S._D._Kelly_All_Things_Shining_Reading_the_Western_Classics_to_Find_Meaning_in_a_Secular_Age_2011_">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press</a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>		
 
 <hr />
 
