@@ -119,7 +119,7 @@
 		
 		<h3>Notes on Articles</h3>
 
-		<h5 id="1">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27</h5> <a href="#1">#</a>
+		<h6 id="1">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27 <a href="#1">#</a></h6>
 		<p>There are many different models connecting designers and consumers, yet there are largely disconnected. <a href="https://www.xkcd.com/927/">XKCD Comic about Standards</a></p>
 		<blockquote><p>Unnecessary effort is expended in developing representations that duplicate those that already exist, [and] new models are developed from inappropriate foundations.</p></blockquote>
 		<p>&mdash; we need to make sure that what we're producing deserves to exist and either adds value to established models or disproves them.</p>
@@ -137,7 +137,7 @@
 		<p><i>"Designers must be aware of their audiences' experiences in order to communicate with them"</i> &mdash; we must understand the context of use as well as the existing knowledge of the user. This is where interviews and shadowing help paint us a picture.</p>
 		<p><i>"Render the process of design and consumption intelligible to non-designers"</i> &mdash; Don't be elitist. We need to talk to users with everyday language. This will make products more intuitive from a usability perspective but also more their meaning more transparent.</p>
 		
-		<h5>Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press</h5>
+		<h6>Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press</h6>
 		<blockquote><p>The task of a craftsman it not to generate meaning but rather to cultivate in himself the skill of discerning the meanings that are already there.</p></blockquote>
 		<p><i>"This frees the craftsman of the nihilism of autonomous individualism, providing an ordered world of meaning."</i> &mdash; The artefact is a communication medium in a dialogue between designer and user. By gathering data from different cultures and contexts, we can potentially outweigh the Enlightenment's <i>individual</i>. </p>
 		<blockquote><p>Another issue muddying the connection between depth and meaning in knowledge work is the cacophony of voices attempting to convince knowledge workers to spend more time engaged in shallow activities.</p>

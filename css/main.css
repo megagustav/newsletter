@@ -375,6 +375,14 @@ h5 { /* figcaption */
   font-weight: normal;
 }
 
+h6 { /* source title in paragraph */
+	text-align: left;
+	font-size: 0.8;
+	line-height: 1.2;
+	font-family: concourse;
+  font-weight: normal;
+}
+
 li.article_title {
   margin-bottom: 0.7em;
 }
