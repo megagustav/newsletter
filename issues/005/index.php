@@ -107,7 +107,8 @@
 		<p><i>"Designers must be aware of their audiences' experiences in order to communicate with them"</i> &mdash; we must understand the context of use as well as the existing knowledge of the user. This is where interviews and shadowing help paint us a picture.</p>
 		<p><i>"Render the process of design and consumption intelligible to non-designers"</i> &mdash; Don't be elitist. We need to talk to users with everyday language. This will make products more intuitive from a usability perspective but also more their meaning more transparent.</p>
 		
-		<h5>Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27</h5>
+		<h5>Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press</h5>
+		<blockquote><p>The task of a craftsman it not to generate meaning but rather to cultivate in himself the skill of discerning the meanings that are already there.</p></blockquote>
 		
 		<h3>Further Reading</h3>
 		<p>1) <a href="http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp">The Semiotic Process and the Classification of Signs by Umberto Eco (Website)</a></p>
