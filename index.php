@@ -51,7 +51,7 @@ Gustav</p>
     <li class="article_title">
       <div class="inline"><h2 class="index">005</h2></div>
       <div class="inline">
-        <h2 class="article_title_list"><a class="article_title" href="issues/005">Preliminary Word List</a></h2>
+        <h2 class="article_title_list"><a class="article_title" href="issues/005">Design for Meaning</a> Draft</h2>
         <h4 class="date">March 23rd, 2020</h4>
       </div>
     </li>

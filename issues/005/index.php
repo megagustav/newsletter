@@ -6,14 +6,23 @@
 <h1><a class="logo back" href="../../"><i class="far fa-arrow-circle-left"></i> Back</a></h1>
 
       <div class="inline">
-        <h2 class="article_title_list article_title single">Preliminary Word List</h2>
-        <h4>March 23rd, 2020</h4>
+        <h2 class="article_title_list article_title single">Phase: Preliminary Research</h2>
+        <h4>Updated March 24th, 2020</h4>
       </div>
 
 		<p>This preliminary research stems from reading articles on mnemonic devices and work rituals with the goal of extracting practical semantics for everyday people for <i>function</i>, <i>ritual</i> and <i>myth</i>.</p>
 		<p>The first stage was to collect words that fit in these three categories. At a later stage, we can combine each column into a comprehensive definition and establish a functioning cognitive model.</p>
 		
-		<h3 id="wordlist">Word List</h3>
+		<h3 id="definition">Definition</h3>
+		
+		Formal dictionary definition that people have of the terms
+		different sources
+		synonyms and antonyms 
+		
+		
+		<h3 id="wordlist">Subjective Word List</h3>
+		
+		<p>How was this achieved???</p>
 
 		<table>
 			<tr>
@@ -37,8 +46,8 @@
 				<td>Motivation</td>
 			</tr>
 			<tr>
-				<td>Doing</td>
 				<td>Human cognition</td>
+				<td>Interaction</td>
 				<td>Knowledge-carrying artefact</td>
 			</tr>
 			<tr>
@@ -49,12 +58,12 @@
 			<tr>
 				<td>Feature</td>
 				<td>Practise</td>
-				<td>Influence</td>
+				<td>Ideology</td>
 			</tr>
 			<tr>
 				<td>Perception</td>
 				<td>Habit</td>
-				<td>Internalisation </td>
+				<td>Internalisation</td>
 			</tr>
 			<tr>
 				<td>Useable</td>
