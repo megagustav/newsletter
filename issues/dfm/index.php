@@ -141,8 +141,8 @@
 		
 		<hr />
 		
-		<h6 id="art2">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press <a href="#art2"><i class="far fa-link"></i></a> <a href="#fn11"><i class="far fa-long-arrow-down"></i></a></h6>
 		<blockquote><p>The task of a craftsman it not to generate meaning but rather to cultivate in himself the skill of discerning the meanings that are already there.</p></blockquote>
+		<h6 id="art2">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press <a href="#art2"><i class="far fa-link"></i></a> <a href="#fn11"><i class="far fa-long-arrow-down"></i></a></h6>
 		
 		<hr />
 		
