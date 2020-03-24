@@ -3,7 +3,7 @@
 <body>
 <section class="single">
 
-<h1><a class="logo back" href="../../"><i class="far fa-arrow-circle-left"></i> Back</a></h1>
+<h1><a class="logo back" href="../../"><i class="far fa-arrow-circle-left"> </i>Back</a></h1>
 
       <div class="inline">
         <h2 class="article_title_list article_title single">Phase: Preliminary Research</h2>
@@ -89,7 +89,7 @@
 		
 		<h3>Notes on Articles</h3>
 
-		<p>Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27</p>
+		<h5 id="1">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27</h5> <a href="#1">#</a>
 		<p>There are many different models connecting designers and consumers, yet there are largely disconnected. <a href="https://www.xkcd.com/927/">XKCD Comic about Standards</a></p>
 		<blockquote><p>Unnecessary effort is expended in developing representations that duplicate those that already exist, [and] new models are developed from inappropriate foundations.</p></blockquote>
 		<p>&mdash; we need to make sure that what we're producing deserves to exist and either adds value to established models or disproves them.</p>
@@ -107,6 +107,8 @@
 		<p><i>"Designers must be aware of their audiences' experiences in order to communicate with them"</i> &mdash; we must understand the context of use as well as the existing knowledge of the user. This is where interviews and shadowing help paint us a picture.</p>
 		<p><i>"Render the process of design and consumption intelligible to non-designers"</i> &mdash; Don't be elitist. We need to talk to users with everyday language. This will make products more intuitive from a usability perspective but also more their meaning more transparent.</p>
 		
+		<h5>Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27</h5>
+		
 		<h3>Further Reading</h3>
 		<p>1) <a href="http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp">The Semiotic Process and the Classification of Signs by Umberto Eco (Website)</a></p>
 		<p>2) <a href="https://books.google.de/books?id=qi0enwGEeYYC&pg=PA18&lpg=PA18&dq=de+Souza,+C.+S.+(2005).+The+semiotic+engineering+of+human-computer+interaction.+Cambridge,+MA:+The+MIT+Press&source=bl&ots=vdeBquCVZ6&sig=ACfU3U1aXhHUbulE2eWgdLXg8Y73Q-iK8w&hl=en&sa=X&redir_esc=y#v=onepage&q=de%20Souza%2C%20C.%20S.%20(2005).%20The%20semiotic%20engineering%20of%20human-computer%20interaction.%20Cambridge%2C%20MA%3A%20The%20MIT%20Press&f=false">de Souza, C. S. (2005). The semiotic engineering of human-computer interaction. Cambridge, MA: The MIT Press (Google Books)</a></p>
@@ -116,7 +118,7 @@
 <hr />
 
 
-<h1><a class="logo back" href="/"><i class="far fa-arrow-circle-left"></i> Back</a></h1>
+<h1><a class="logo back" href="/"><i class="far fa-arrow-circle-left"> </i>Back</a></h1>
   
 </section>
 
