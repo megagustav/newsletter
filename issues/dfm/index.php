@@ -141,12 +141,14 @@
 		
 		<hr />
 		
+		<h6 id="art2">Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World <a href="#art2"><i class="far fa-link"></i></a> <a href="#fn5"><i class="far fa-long-arrow-down"></i></a></h6>
+		
 		<blockquote><p>The task of a craftsman it not to generate meaning but rather to cultivate in himself the skill of discerning the meanings that are already there.</p></blockquote>
-		<h6 id="art2">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press <a href="#art2"><i class="far fa-link"></i></a> <a href="#fn11"><i class="far fa-long-arrow-down"></i></a></h6>
+		<h6 id="art3">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press <a href="#art3"><i class="far fa-link"></i></a> <a href="#fn11"><i class="far fa-long-arrow-down"></i></a></h6>
 		
 		<hr />
 		
-		<p>Back to Crilly et al.: <i>"This frees the craftsman of the nihilism of autonomous individualism, providing an ordered world of meaning."</i> &mdash; The artefact is a communication medium in a dialogue between designer and user. By gathering data from different cultures and contexts, we can potentially outweigh the Enlightenment's <i>individual</i>. </p>
+		<p>Back to Newport: <i>"This frees the craftsman of the nihilism of autonomous individualism, providing an ordered world of meaning."</i> &mdash; The artefact is a communication medium in a dialogue between designer and user. By gathering data from different cultures and contexts, we can potentially outweigh the Enlightenment's <i>individual</i>. </p>
 		<blockquote><p>Another issue muddying the connection between depth and meaning in knowledge work is the cacophony of voices attempting to convince knowledge workers to spend more time engaged in shallow activities.</p>
 		<p>Just because this connection between depth and meaning is less clear in knowledge work, however, doesn’t mean that it’s nonexistent.</p>
 		<p>It’s clear that by embracing depth over shallowness you can tap the veins of meaning.</p></blockquote>
@@ -157,6 +159,14 @@
 		<p><i>"The goal you pursue needs to resonate at a more human level. Whether you approach the activity of going deep from the perspective of neuroscience, psychology of lofty philosophy, these paths all seem to lead back to a connection between depth and meaning. "</i> Going back to the craftsman: <i>"“The woodworker has an intimate relationship with the wood he works. Its subtle virtues call out to be cultivated and cared for.” In this appreciation for the “subtle virtues” of his medium, they note, the craftsman has stumbled onto something crucial in a post-Enlightenment world: a source of meaning sited outside the individual. The wheelwright doesn’t decide arbitrarily which virtues of the wood he works are valuable and which are not; this value is inherent in the wood and the task it’s meant to perform.”</i> &mdash; We have the power to design products with a certain intent and meaning. Whether this is intent is interpreted as desired by the user depends on the message itself, its context, how well it's encoded, and existing conditions of the user.</p>
 		<p><i>"The meaning uncovered by such efforts is due to the skill and appreciation inherent in craftsmanship—not the outcomes of their work. Put another way, a wooden wheel is not noble, but its shaping can be."</i> &mdash; The wheel isn't special, but <i>this one</i> is.</p>
 		<p>Cal Newport's book is about the meaning people find in their work, but the uses of the word can be interesting for the research on Design for Meaning.</p>
+		
+		<hr />
+		
+		<h6 id="art4">Cita, N., Hekkert, P. & Visch, V. (2014). Source Selection in Product Metaphor Generation. International Journal of Design, 8(1), 15-28<a href="#art4"><i class="far fa-link"></i></a> <a href="#fn12"><i class="far fa-long-arrow-down"></i></a></h6>
+		
+		<p>......</p>
+		
+		<hr />
 		
 		<h3>Footnotes</h3>
 		<p>1) <a id="fn1" href="http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp">The Semiotic Process and the Classification of Signs by Umberto Eco</a> (Website) <a class="footnote-back" href="javascript:history.back()">↩</a>︎</p>
@@ -169,7 +179,8 @@
 		<p>8) <a id="fn8">New Oxford American Dictionary (2020)</a> (Dictionary) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
 		<p>9) <a id="fn9">Oxford Dictionary of English (2020)</a> (Dictionary) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
 		<p>10) <a id="fn10" href="https://www.merriam-webster.com">Merriam-Webster, (2020) Merriam-Webster.com Thesaurus, s.v. </a> (Dictionary) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
-		<p>11) <a id="fn11" href="https://www.academia.edu/3069886/Dreyfus_H._and_S._D._Kelly_All_Things_Shining_Reading_the_Western_Classics_to_Find_Meaning_in_a_Secular_Age_2011_">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press</a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>		
+		<p>11) <a id="fn11" href="https://www.academia.edu/3069886/Dreyfus_H._and_S._D._Kelly_All_Things_Shining_Reading_the_Western_Classics_to_Find_Meaning_in_a_Secular_Age_2011_">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press</a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
+		<p>12) <a id="fn12" href="http://www.ijdesign.org/index.php/IJDesign/article/view/1382/613">Cita, N., Hekkert, P. & Visch, V. (2014). Source Selection in Product Metaphor Generation. International Journal of Design, 8(1), 15-28</a> (Website) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
 
 <hr />
 
