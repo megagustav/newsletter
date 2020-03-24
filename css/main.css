@@ -377,7 +377,7 @@ h5 { /* figcaption */
 
 h6 { /* source title in paragraph */
 	text-align: left;
-	font-size: 1;
+	font-size: 1em;
 	line-height: 1.2;
 	font-family: concourse;
   font-weight: normal;
