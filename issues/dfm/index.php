@@ -39,7 +39,9 @@
 		<p>This preliminary research stems from reading articles on mnemonic devices and work rituals with the goal of extracting practical semantics for everyday people for <i>function</i>, <i>ritual</i> and <i>myth</i>.</p>
 		<p>The first stage was to collect words that fit in these three categories. At a later stage, we can combine each column into a comprehensive definition and establish a functioning cognitive model.</p>
 		
-		<p><mark>Highlighted text</mark> means verbatim quote.</p>
+		<p><mark>Highlighted text</mark> means verbatim quote.<br />
+		   <i class="fas fa-sm fa-external-link"></i> means external link, all other links are within the document.
+		</p>
 		
 		<h3 id="definition">Definition <a class="anchoref" href="#definition"><i class="far fa-link"></i></a></h3>
 		
@@ -189,7 +191,8 @@
 		<h3 id="articles">Notes on Articles <a class="anchoref" href="#articles"><i class="far fa-link"></i></a></h3>
 
 		<h6 id="fn6ref">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27 <a href="#fn6ref"><i class="far fa-link"></i></a> <a href="#fn6"><i class="far fa-file-alt"></i></a></h6>
-		<p>There are many different models connecting designers and consumers, yet there are largely disconnected. <a href="https://www.xkcd.com/927/">XKCD Comic about Standards</a></p>
+		
+		<p>There are many different models connecting designers and consumers, yet there are largely disconnected. <a href="https://www.xkcd.com/927/">XKCD Comic about Standards<sup><i class="fas fa-sm fa-external-link"></i></sup></a></p>
 		<blockquote><p>Unnecessary effort is expended in developing representations that duplicate those that already exist, [and] new models are developed from inappropriate foundations.</p></blockquote>
 		<p>&mdash; we need to make sure that what we're producing deserves to exist and either adds value to established models or disproves them.</p>
 		<p>Models: "Model of Design", an encompassing guide for other models from communication to psychology. The artefact can be a medium. <mark>rendering design more intelligible to non-designers</mark>. </p>
@@ -259,7 +262,7 @@
 		
 		<ol>
 			<li>Due to the coronavirus emergency, work will be carried out remotely in smart working setting</li>
-			<li>Testing activity  at the moment will be limited to be remote and on-line</li>
+			<li>Testing activity at the moment will be limited to be remote and on-line</li>
 			<li>The experimental activity cannot start before conducting a preliminary research study on the semantics used to define Function, Ritual and Myth (<a href="#ref_semantics">see point 1 below</a>)</li>
 		</ol>
 		
@@ -272,30 +275,42 @@
 		<ol>
 			<li id="ref_semantics">SEMANTICS: Construct a “semantic tree”. Perform desk research to identify several definitions taken from dictionaries and thesaurus, all possible established semantics defining Function, Ritual and Myth so as to form a list of possible semantic. It is suggested to explore if any available software are online that build and organise such semantic tree structure, and if online database of definitions already exist.
 </li>
-			<li>EXPERIMENT 1: on completion of the semantic tree, the list of words will be presented to a
+			<li id="ref_exp1">EXPERIMENT 1: on completion of the semantic tree, the list of words will be presented to a
 number of participants so as to rate on a scale 1 to 5 the relevance of each word to the concept of Function, Ritual, Myth. The experiment will also consider the implementation of metaphors to help to understand how people use the words, what they need to describe the meaning attach to an artefacts. It is therefore recommended to consider previous work on <b>design for metaphors by Dan Lockton</b></li>
 			<ol>
-				<li><a href="http://imaginari.es/publications/New_Metaphors_ACM_CC_2019_v2_OA_version.pdf" target="_blank">ACM Conference on Creativity & Cognition, (Video)</a></li>
-				<li><a href="http://imaginari.es/new-metaphors/" target="_blank">New Metaphors Cards</a></li>
-				<li><a href="http://imaginari.es/newmetaphors/2019/nm_2019_complete.pdf" target="_blank">Toolkit Cards (PDF)</a></li>
+				<li><a href="http://imaginari.es/publications/New_Metaphors_ACM_CC_2019_v2_OA_version.pdf" target="_blank">ACM Conference on Creativity & Cognition, (Video)<sup><i class="fas fa-sm fa-external-link"></i></sup></a></li>
+				<li><a href="http://imaginari.es/new-metaphors/" target="_blank">New Metaphors Cards<sup><i class="fas fa-sm fa-external-link"></i></sup></a></li>
+				<li><a href="http://imaginari.es/newmetaphors/2019/nm_2019_complete.pdf" target="_blank">Toolkit Cards (PDF)<sup><i class="fas fa-sm fa-external-link"></i></sup></a></li>
 			</ol>
 			<li>EXPERIMENT 2: Once the list of all possible semantics has been rated, clustered and reduced into few workable number of terms, an experimental activity will be performed using artefacts to be tested using different scenarios and ethnic groups with the newly list of semantics created.</li>
 		</ol>
 		
 		<h4 id="ppp3" class="ppp">27/03/20</h4>
 		<h3>Progress</h3>
+		<p>The remote work environment has been established through e-mails and FaceTime calls. This remote working setup will be the norm for the foreseeable future until new plans can be made.</p>
 		<p>To build the “semantic tree”, we began by looking at dictionary definitions of the categories of Function, Ritual and Meaning collected in its complete form <a href="#def_table">inside a table</a>. Here, dictionary definitions of the words as well as synonyms and antonyms were considered. We consulted resources in English, German and French to discover potential linguistic differences. One finding is that <i>myth</i> might not be the most fitting term we can use to describe ideology or feeling.</p>
+		<p>We have also begun reading papers and collecting subjectively interesting terms for the three categories or Function, Ritual and Myth.</p>
 		
 		<h3>Problems</h3>
-		<p>Collecting all sources in a way that enables expansion of a list led to an <span class="smallcaps">HTML</span> document where sources and relevant elements from the respective sources can coexist interactively.</p>
+		<p>Collecting all sources in a way that enables expansion of a list led to an <span class="smallcaps">HTML</span> document where sources and relevant elements from the respective sources can coexist interactively. This has the added benefit of keeping track of visited links, helping us see which resources have been read and which haven't.</p>
+		<p>There is little clarity in collecting a subjective list before the boundaries of taxonomy have been established.</p>
 		
 		<h3>Plan</h3>
 		
-		<p>After adding more definitions (consulting Italian dictionnaires too) we can condense the list and test the terms in a preliminary round to weed out words that are confusing to people. </p>
+		<ol>
+			<li>Add more definitions, consulting Italian dictionaires too</li>
+			<li>Build semantic tree</li>
+			<li>condense the list and test the terms in a preliminary round to weed out words that are confusing to people.</li>
+			<li>Prepare <a href="#ref_exp1">experiment 1</a></li>
+		</ol>
+		
 		
 		<hr />
-		
+				
 		<h3>Footnotes</h3>
+		
+		<div class="footnotes">
+
 		<p>1) <a id="fn1" href="http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp">The Semiotic Process and the Classification of Signs by Umberto Eco</a> (Website) <a class="footnote-back" href="#fn1ref"><i class="far fa-level-up"></i></a></p>
 		<p>2) <a id="fn2" href="https://books.google.de/books?id=qi0enwGEeYYC&pg=PA18&lpg=PA18&dq=de+Souza,+C.+S.+(2005).+The+semiotic+engineering+of+human-computer+interaction.+Cambridge,+MA:+The+MIT+Press&source=bl&ots=vdeBquCVZ6&sig=ACfU3U1aXhHUbulE2eWgdLXg8Y73Q-iK8w&hl=en&sa=X&redir_esc=y#v=onepage&q=de%20Souza%2C%20C.%20S.%20(2005).%20The%20semiotic%20engineering%20of%20human-computer%20interaction.%20Cambridge%2C%20MA%3A%20The%20MIT%20Press&f=false">de Souza, C. S. (2005). The semiotic engineering of human-computer interaction. Cambridge, MA: The MIT Press</a> (Google Books) <a class="footnote-back" href="#fn2ref"><i class="far fa-level-up"></i></a></p>
 		<p>3) <a id="fn3" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.4950&rep=rep1&type=pdf">de Souza, C. S. (2003). Semiotic engineering: bringing designers and users together at interaction time. Departamento de Informàtica, PUC-Rio, Brazil</a> (PDF) <a class="footnote-back" href="#fn3ref"><i class="far fa-level-up"></i></a></p>
@@ -316,8 +331,9 @@ number of participants so as to rate on a scale 1 to 5 the relevance of each wor
 		<p>18) <a id="fn18" href="https://www.larousse.fr/dictionnaires/francais/rituel/69585?q=rituel#68833">Rituel, larousse.fr</a> (Website) <a class="footnote-back" href="#fn18ref"><i class="far fa-level-up"></i></a></p>
 		<p>19) <a id="fn19" href="https://www.larousse.fr/dictionnaires/francais/mythe/53630?q=mythe#53277">Mythe, larousse.fr</a> (Website) <a class="footnote-back" href="#fn19ref"><i class="far fa-level-up"></i></a></p>
 		
-
 <hr />
+
+</div>
 
 
 <h1><a class="logo back" href="/"><i class="far fa-arrow-circle-left"></i> Back</a></h1>

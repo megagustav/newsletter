@@ -406,6 +406,11 @@ blockquote {
   max-width: 50ch;
 }
 
+sup i {
+	padding-left: 0.2em;
+	text-decoration: none;
+}
+
 .footnote {
   color: blue;
   text-decoration: none;
@@ -413,6 +418,11 @@ blockquote {
 	font-size: 0.8em;
 	font-family: concourse_caps;
 	line-height: 0em;
+}
+
+.footnotes p {
+	font-size: 0.8em;
+	max-width: none;
 }
 
 .sidenote-right {
