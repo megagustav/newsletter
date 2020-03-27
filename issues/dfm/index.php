@@ -40,7 +40,7 @@
 		<p>The first stage was to collect words that fit in these three categories. At a later stage, we can combine each column into a comprehensive definition and establish a functioning cognitive model.</p>
 		
 		<p><mark>Highlighted text</mark> means verbatim quote.<br />
-		   <i class="fas fa-sm fa-external-link"></i> means external link, all other links are within the document.
+		   <i class="far fa-external-link"></i> means external link, all other links are within the document.
 		</p>
 		
 		<h3 id="definition">Definition <a class="anchoref" href="#definition"><i class="far fa-link"></i></a></h3>
