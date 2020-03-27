@@ -19,12 +19,17 @@
 					<li>Word List <a href="#wordlist"><i class="far fa-level-down fa-sm"></i></a></li>
 					<li>Article Reviews <a href="#articles"><i class="far fa-level-down fa-sm"></i></a></li>
 					<ul>
-						<li>Article 1 <a href="#art1"><i class="far fa-level-down fa-sm"></i></a></li>
-						<li>Article 2 <a href="#art2"><i class="far fa-level-down fa-sm"></i></a></li>
-						<li>Article 3 <a href="#art3"><i class="far fa-level-down fa-sm"></i></a></li>
-						<li>Article 4 <a href="#art4"><i class="far fa-level-down fa-sm"></i></a></li>
+						<li>Article 1 <a href="#fn6ref"><i class="far fa-level-down fa-sm"></i></a></li>
+						<li>Article 2 <a href="#fn5ref"><i class="far fa-level-down fa-sm"></i></a></li>
+						<li>Article 3 <a href="#fn11ref"><i class="far fa-level-down fa-sm"></i></a></li>
+						<li>Article 4 <a href="#fn12ref"><i class="far fa-level-down fa-sm"></i></a></li>
 					</ul>
       	</ul>
+      	<li>Project Progress Report <a href="#ppp"><i class="far fa-level-down fa-sm"></i></a></li>
+      	<ul>
+					<li>16/03/20 <a href="#ppp2"><i class="far fa-level-down fa-sm"></i></a></li>
+					<li>27/03/20 <a href="#ppp3"><i class="far fa-level-down fa-sm"></i></a></li>
+				</ul>
       </ul>
       
       <hr />
@@ -43,7 +48,7 @@
 		synonyms and antonyms </p>
 		
 		
-		<table>
+		<table id="def_table">
 			<tr>
 				<th>Function</th>
 				<th>Ritual</th>
@@ -227,6 +232,66 @@
 		<h6 id="fn12ref">Cita, N., Hekkert, P. & Visch, V. (2014). Source Selection in Product Metaphor Generation. International Journal of Design, 8(1), 15-28 <a href="#fn12ref"><i class="far fa-link"></i></a> <a href="#fn12"><i class="far fa-file-alt"></i></a></h6>
 		
 		<p>......</p>
+		
+		<hr />
+		
+		<h3 id="ppp" class="article_title_list article_title single">Project Progress Reports <a class="anchoref" href="#ppp"><i class="far fa-link"></i></a></h3>
+		
+		<h4 id="ppp2" class="ppp">16/03/20</h4>
+
+		<h3>Progress</h3>
+		
+		<ol>
+			<li>“A decision will be taken regarding the ethnographic approach is intended to be adopted”.</li>
+			<p>PROGRESS: following a discussion, it was identified useful to think “with the end at the start” on what form the design for meaning toolkit could have and be of use for designers. A digital database of words, semantics and images of product metaphors was considered the most promising type of delivery. Therefore the ethnographic approach will consider how to collect data digitally and remotely.</p>
+			<li>A decision will be taken regarding the test procedure to be adopted with respect of:</li>
+			<ol>
+				<li>the optimal artefacts to be used for the testing</li>
+				<li>the type of context</li>
+				<li>type of scenarios</li>
+				<li>number of participants</li>
+			</ol>
+			<p>PROGRESS: the study will reconsider the artefacts used in the 2019’s pilot study by Ajovalasit and Giacomin. However, it will expand it in terms of rigour of high number of participants (n=50 people) and in terms of ethnic groups comparisons (male vs female, young vs old, consumers vs designers etc etc). The scenarios and context will be also identified such as using images of a product alone and of a product with a person using it.
+</p>
+		</ol>
+		
+		<h3>Problems</h3>
+		
+		<ol>
+			<li>Due to the coronavirus emergency, work will be carried out remotely in smart working setting</li>
+			<li>Testing activity  at the moment will be limited to be remote and on-line</li>
+			<li>The experimental activity cannot start before conducting a preliminary research study on the semantics used to define Function, Ritual and Myth (<a href="#ref_semantics">see point 1 below</a>)</li>
+		</ol>
+		
+		<h3>Plan</h3>
+		
+		<p>While the segmentation of “meaning issues” into three macro-categories of Function, Ritual and Myth is correct, and is supported by several thousand years of philosophical, linguistic, psychological and sociological endeavour, what is not yet in place, however, is a set of practical semantics which can be used to speak to everyday people about these issues. Any “method”, “process” or “toolkit” will have to be based on ethnographic data, but I suspect that most everyday people would not understand what we are doing and would not be able to provide accurate opinions using the semantics which have appeared in previous papers to date. Upon careful reflection, I have become convinced that a proper academic research activity to flesh out the main utilisable semantics, and to cluster and classify them in relation to the three-meaning-model, needs to be performed before anything else can be done reliably. Without a full picture of the available semantics and associations, we risk “category errors” on the part of the participants. Such “category errors” will be nearly impossible to detect within the datasets and could lead to highly biased conclusions.</p>
+		
+		<p>Therefore as a consequence of point 1, the research activity will follow this iteration steps:</p>		
+		
+		<ol>
+			<li id="ref_semantics">SEMANTICS: Construct a “semantic tree”. Perform desk research to identify several definitions taken from dictionaries and thesaurus, all possible established semantics defining Function, Ritual and Myth so as to form a list of possible semantic. It is suggested to explore if any available software are online that build and organise such semantic tree structure, and if online database of definitions already exist.
+</li>
+			<li>EXPERIMENT 1: on completion of the semantic tree, the list of words will be presented to a
+number of participants so as to rate on a scale 1 to 5 the relevance of each word to the concept of Function, Ritual, Myth. The experiment will also consider the implementation of metaphors to help to understand how people use the words, what they need to describe the meaning attach to an artefacts. It is therefore recommended to consider previous work on <b>design for metaphors by Dan Lockton</b></li>
+			<ol>
+				<li><a href="http://imaginari.es/publications/New_Metaphors_ACM_CC_2019_v2_OA_version.pdf" target="_blank">ACM Conference on Creativity & Cognition, (Video)</a></li>
+				<li><a href="http://imaginari.es/new-metaphors/" target="_blank">New Metaphors Cards</a></li>
+				<li><a href="http://imaginari.es/newmetaphors/2019/nm_2019_complete.pdf" target="_blank">Toolkit Cards (PDF)</a></li>
+			</ol>
+			<li>EXPERIMENT 2: Once the list of all possible semantics has been rated, clustered and reduced into few workable number of terms, an experimental activity will be performed using artefacts to be tested using different scenarios and ethnic groups with the newly list of semantics created.</li>
+		</ol>
+		
+		<h4 id="ppp3" class="ppp">27/03/20</h4>
+		<h3>Progress</h3>
+		<p>To build the “semantic tree”, we began by looking at dictionary definitions of the categories of Function, Ritual and Meaning collected in its complete form <a href="#def_table">inside a table</a>. Here, dictionary definitions of the words as well as synonyms and antonyms were considered. We consulted resources in English, German and French to discover potential linguistic differences. One finding is that <i>myth</i> might not be the most fitting term we can use to describe ideology or feeling.</p>
+		
+		<h3>Problems</h3>
+		<p>Collecting all sources in a way that enables expansion of a list led to an <span class="smallcaps">HTML</span> document where sources and relevant elements from the respective sources can coexist interactively.</p>
+		
+		<h3>Plan</h3>
+		
+		<p>After adding more definitions (consulting Italian dictionnaires too) we can condense the list and test the terms in a preliminary round to weed out words that are confusing to people. </p>
 		
 		<hr />
 		

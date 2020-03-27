@@ -364,6 +364,11 @@ h4 { /* Date under Article Title */
   margin-top: -1.5em;
 }
 
+h4.ppp {
+	margin-top: 1em;
+	margin-bottom: -1em;
+}
+
 h5 { /* figcaption */
   margin-top: -0.7em;
   font-size: 0.7em;
@@ -410,6 +415,26 @@ blockquote {
 	line-height: 0em;
 }
 
+.sidenote-right {
+  right: 0;
+  left: auto;
+  margin-right: -10em;
+  width: 9em;
+  float: right;
+  color: #777;
+  font-size: smaller;
+}
+
+.sidenote-left {
+  right: auto;
+  left: 0;
+  margin-left: -12em;
+  width: 9em;
+  float: left;
+  color: #777;
+  font-size: smaller;
+}
+
 li {
   margin-bottom: 1em;
 }
@@ -425,7 +450,7 @@ ul {
 }
 
 ol {
-  -webkit-padding-start: 1.2em;
+  -webkit-padding-start: 1.2em; /* indent text, use 0 for left-offset numbers, original 1.2em */
 }
 
 /*
@@ -458,7 +483,13 @@ ul ul {
 	padding-left: 1em;	
 	border-left: 4px solid #eee;}
 
+ol ol {
+	list-style-type: lower-alpha;
+}
 
+ol ol li:not(:last-child) {
+	margin-bottom: 0em;
+}
 
 
  /* ==========================================================================
