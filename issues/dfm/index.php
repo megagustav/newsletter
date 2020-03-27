@@ -183,7 +183,7 @@
 		
 		<h3 id="articles">Notes on Articles <a class="anchoref" href="#articles"><i class="far fa-link"></i></a></h3>
 
-		<h6 id="art1">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27 <a href="#art1"><i class="far fa-link"></i></a> <a href="#fn6"><i class="far fa-level-down"></i></a></h6>
+		<h6 id="fn6ref">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27 <a href="#fn6ref"><i class="far fa-link"></i></a> <a href="#fn6"><i class="far fa-file-alt"></i></a></h6>
 		<p>There are many different models connecting designers and consumers, yet there are largely disconnected. <a href="https://www.xkcd.com/927/">XKCD Comic about Standards</a></p>
 		<blockquote><p>Unnecessary effort is expended in developing representations that duplicate those that already exist, [and] new models are developed from inappropriate foundations.</p></blockquote>
 		<p>&mdash; we need to make sure that what we're producing deserves to exist and either adds value to established models or disproves them.</p>
@@ -203,10 +203,10 @@
 		
 		<hr />
 		
-		<h6 id="art2">Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World <a href="#art2"><i class="far fa-link"></i></a> <a href="#fn5"><i class="far fa-level-down"></i></a></h6>
+		<h6 id="fn5ref">Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World <a href="#fn5ref"><i class="far fa-link"></i></a> <a href="#fn5"><i class="far fa-file-alt"></i></a></h6>
 		
 		<blockquote><p>The task of a craftsman it not to generate meaning but rather to cultivate in himself the skill of discerning the meanings that are already there.</p></blockquote>
-		<h6 id="art3">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press <a href="#art3"><i class="far fa-link"></i></a> <a href="#fn11"><i class="far fa-level-down"></i></a></h6>
+		<h6 id="fn11ref">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press <a href="#fn11ref"><i class="far fa-link"></i></a> <a href="#fn11"><i class="far fa-file-alt"></i></a></h6>
 		
 		<hr />
 		
@@ -224,7 +224,7 @@
 		
 		<hr />
 		
-		<h6 id="art4">Cita, N., Hekkert, P. & Visch, V. (2014). Source Selection in Product Metaphor Generation. International Journal of Design, 8(1), 15-28 <a href="#art4"><i class="far fa-link"></i></a> <a href="#fn12"><i class="far fa-level-down"></i></a></h6>
+		<h6 id="fn12ref">Cita, N., Hekkert, P. & Visch, V. (2014). Source Selection in Product Metaphor Generation. International Journal of Design, 8(1), 15-28 <a href="#fn12ref"><i class="far fa-link"></i></a> <a href="#fn12"><i class="far fa-file-alt"></i></a></h6>
 		
 		<p>......</p>
 		
