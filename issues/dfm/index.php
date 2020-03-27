@@ -10,18 +10,38 @@
         <h4>Updated March 24th, 2020</h4>
       </div>
       
-      <h3 class="article_title_list article_title single">Phase I: Preliminary Research</h3>
+      <h3 id="toc" class="article_title_list article_title single">Table of Contents <a class="anchoref" href="#toc"><i class="far fa-link"></i></a></h3>
+      
+      <ul>
+      	<li>Phase I: Preliminary Research <a href="#phase1"><i class="far fa-level-down fa-sm"></i></a></li>
+      	<ul>
+					<li>Definition <a href="#definition"><i class="far fa-level-down fa-sm"></i></a></li>
+					<li>Word List <a href="#wordlist"><i class="far fa-level-down fa-sm"></i></a></li>
+					<li>Article Reviews <a href="#articles"><i class="far fa-level-down fa-sm"></i></a></li>
+					<ul>
+						<li>Article 1 <a href="#art1"><i class="far fa-level-down fa-sm"></i></a></li>
+						<li>Article 2 <a href="#art2"><i class="far fa-level-down fa-sm"></i></a></li>
+						<li>Article 3 <a href="#art3"><i class="far fa-level-down fa-sm"></i></a></li>
+						<li>Article 4 <a href="#art4"><i class="far fa-level-down fa-sm"></i></a></li>
+					</ul>
+      	</ul>
+      </ul>
+      
+      <hr />
+      
+      <h3 id="phase1" class="article_title_list article_title single">Phase I: Preliminary Research <a class="anchoref" href="#phase1"><i class="far fa-link"></i></a></h3>
 
 		<p>This preliminary research stems from reading articles on mnemonic devices and work rituals with the goal of extracting practical semantics for everyday people for <i>function</i>, <i>ritual</i> and <i>myth</i>.</p>
 		<p>The first stage was to collect words that fit in these three categories. At a later stage, we can combine each column into a comprehensive definition and establish a functioning cognitive model.</p>
 		
 		<p><mark>Highlighted text</mark> means verbatim quote.</p>
 		
-		<h3 id="definition">Definition</h3>
+		<h3 id="definition">Definition <a class="anchoref" href="#definition"><i class="far fa-link"></i></a></h3>
 		
-		Formal dictionary definition that people have of the terms
-		different sources
-		synonyms and antonyms 
+		<p>Formal dictionary definition that people have of the terms<br />
+		different sources<br />
+		synonyms and antonyms </p>
+		
 		
 		<table>
 			<tr>
@@ -30,39 +50,67 @@
 				<th>Myth</th>
 			</tr>
 			<tr>
-				<td>(noun) an activity or purpose natural to or intended for a person or thing <a class="footnote" href="#fn8">[8]</a></td>
-				<td>(noun) a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order <a class="footnote" href="#fn8">[8]</a></td>
-				<td>(noun) a traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon, and typically involving supernatural beings or events <a class="footnote" href="#fn8">[8]</a></td>
+				<td>(noun) an activity or purpose natural to or intended for a person or thing <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
+				<td>(noun) a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
+				<td>(noun) a traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon, and typically involving supernatural beings or events <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
 			</tr>
 			<tr>
-				<td>(verb) work or operate in a proper or particular way <a class="footnote" href="#fn8">[8]</a></td>
-				<td>(adjective) arising from convention or habit <a class="footnote" href="#fn8">[8]</a></td>
-				<td>(noun) an exaggerated or idealized conception of a person or thing <a class="footnote" href="#fn8">[8]</a></td>
+				<td>(verb) work or operate in a proper or particular way <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
+				<td>(adjective) arising from convention or habit <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
+				<td>(noun) an exaggerated or idealized conception of a person or thing <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
 			</tr>
 			<tr>
-				<td>Responsibility, Use, Duty, Activity, Job <a class="footnote" href="#fn8">[8]</a></td>
-				<td>Performance, Practise, Convention, Procedure <a class="footnote" href="#fn8">[8]</a></td>
-				<td>Story, Fiction, Tale <a class="footnote" href="#fn8">[8]</a></td>
+				<td>Responsibility, Use, Duty, Activity, Job <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
+				<td>Performance, Practise, Convention, Procedure <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
+				<td>Story, Fiction, Tale <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
 			</tr>
 			<tr>
-				<td>≠ Idleness, Fun, Inertia <a class="footnote" href="#fn13">[13]</a></td>
-				<td>≠ Neglect, Disagreement, Discord <a class="footnote" href="#fn13">[13]</a></td>
-				<td>≠ Fact, Reality, Certainty<a class="footnote" href="#fn13">[13]</a></td>
+				<td>≠ Idleness, Fun, Inertia <a class="footnote" id="fn13ref" href="#fn13">13</a></td>
+				<td>≠ Neglect, Disagreement, Discord <a class="footnote" id="fn13ref" href="#fn13">13</a></td>
+				<td>≠ Fact, Reality, Certainty<a class="footnote" id="fn13ref" href="#fn13">13</a></td>
 			</tr>
 			<tr>
-				<td>the action for which a person or thing is specially fitted or used or for which a thing exists <a class="footnote" href="#fn10">[10]</a></td>
-				<td>a usual manner of behaving or doing <a class="footnote" href="#fn10">[10]</a></td>
-				<td>the body of customs, beliefs, stories, and sayings associated with a people, thing, or place <a class="footnote" href="#fn10">[10]</a></td>
+				<td>the action for which a person or thing is specially fitted or used or for which a thing exists <a class="footnote" href="#fn10">10</a></td>
+				<td>a usual manner of behaving or doing <a class="footnote" id="fn10ref" href="#fn10">10</a></td>
+				<td>the body of customs, beliefs, stories, and sayings associated with a people, thing, or place <a class="footnote" href="#fn10">10</a></td>
 			</tr>
 			<tr>
-				<td>Purpose, Capacity, Role, Task <a class="footnote" href="#fn10">[10]</a></td>
-				<td>Ceremony, Custom, Habit, Pattern  <a class="footnote" href="#fn10">[10]</a></td>
-				<td>Legend, Folklore, Tradition <a class="footnote" href="#fn10">[10]</a></td>
+				<td>Anforderung, Arbeit, Aufgabe, Bestimmung, Pflicht, Rolle, Zweck <a class="footnote" id="fn14ref" href="#fn14">14</a></td>
+				<td>wiederholtes, immer gleichbleibendes, regelmäßiges Vorgehen nach einer festgelegten Ordnung; Zeremoniell <a class="footnote" id="fn15ref" href="#fn15">15</a></td>
+				<td>Person, Sache, Begebenheit, die (aus meist verschwommenen, irrationalen Vorstellungen heraus) glorifiziert wird, legendären Charakter hat <a class="footnote" id="fn16ref" href="#fn16">16</a></td>
+			</tr>
+			<tr>
+				<td>Requirement, Work, Task, Design, Duty, Role, Purpose <a class="footnote" id="fn14ref" href="#fn14">14*</td>
+				<td>repeating, unchanging, regular process in a fixed order; ceremonial <a class="footnote" id="fn15ref" href="#fn15">15*</a></td>
+				<td>Person, thing, event with a glorified, legendary character (often with blurry, irrational imagination) <a class="footnote" id="fn16ref" href="#fn16">16*</a></td>
+			</tr>
+			<tr>
+				<td>Fait de servir à quelque chose <a class="footnote" id="fn17ref" href="#fn17">17</a></td>
+				<td>Ensemble des règles et des habitudes fixées par la tradition  <a class="footnote" id="fn18ref" href="#fn18">18</a></td>
+				<td>Ensemble de croyances, de représentations idéalisées autour d'un personnage, d'un phénomène, d'un événement historique, d'une technique et qui leur donnent une force, une importance particulières <a class="footnote" id="fn19ref" href="#fn19">19</a></td>
+			</tr>
+			<tr>
+				<td>Made to serve a purpose <a class="footnote" id="fn17ref" href="#fn17">17*</a></td>
+				<td>Body of rules and habits fixed by tradition  <a class="footnote" id="fn18ref" href="#fn18">18*</a></td>
+				<td>Body of beliefs, of idealised representations around a person, phenomenon, event or technique giving them a particular force and importance <a class="footnote" id="fn19ref" href="#fn19">19*</a></td>
 			</tr>
 		</table>
 		
+		<h5>Collection of definitions from dictionary sources. *translated from original language into English.</h5>
 		
-		<h3 id="wordlist">Subjective Word List</h3>
+		<h3>Function</h3>
+		<p></p>
+		
+		<h3>Ritual</h3>
+		<p>...</p>
+
+		<h3>Myth</h3>		
+		<p>In the three languages that were sampled, <i>myth</i> consistently required the longest definition. In English, the word takes a more pejorative role, it's an exaggerated tale<a class="footnote" id="fn8ref" href="#fn8">8</a> with no basis in reality<a class="footnote" id="fn13ref" href="#fn13">13</a>. The French definition paints a more desirable picture, giving objects a special importance through an idealised representation<a class="footnote" id="fn19ref" href="#fn19">19</a>.</p>
+		
+		<hr />
+		
+		
+		<h3 id="wordlist">Subjective Word List <a class="anchoref" href="#wordlist"><i class="far fa-link"></i></a></h3>
 		
 		<p>The following words were collected by reading various articles and books or from memory. N.B.: Their allocation isn't necessarily 100% rigid.</p>
 
@@ -88,14 +136,14 @@
 				<td>Motivation</td>
 			</tr>
 			<tr>
-				<td>Human cognition <a class="footnote" href="#fn7">[7]</a></td>
-				<td>Interaction <a class="footnote" href="#fn7">[7]</a></td>
-				<td>Knowledge-carrying artefact <a class="footnote" href="#fn7">[7]</a></td>
+				<td>Human cognition <a class="footnote" href="#fn7">7</a></td>
+				<td>Interaction <a class="footnote" href="#fn7">7</a></td>
+				<td>Knowledge-carrying artefact <a class="footnote" href="#fn7">7</a></td>
 			</tr>
 			<tr>
-				<td>Tool <a class="footnote" href="#fn7">[7]</a></td>
-				<td>Entertainment <a class="footnote" href="#fn7">[7]</a></td>
-				<td>Insight <a class="footnote" href="#fn7">[7]</a></td>
+				<td>Tool <a class="footnote" href="#fn7">7</a></td>
+				<td>Entertainment <a class="footnote" href="#fn7">7</a></td>
+				<td>Insight <a class="footnote" href="#fn7">7</a></td>
 			</tr>
 			<tr>
 				<td>Feature</td>
@@ -105,7 +153,7 @@
 			<tr>
 				<td>Perception</td>
 				<td>Habit</td>
-				<td>Internalisation <a class="footnote" href="#fn5">[5]</a></td>
+				<td>Internalisation <a class="footnote" href="#fn5">5</a></td>
 			</tr>
 			<tr>
 				<td>Useable</td>
@@ -120,20 +168,22 @@
 			<tr>
 				<td>Factual</td>
 				<td>Rhythmic</td>
-				<td>Interpretation <a class="footnote" href="#fn6">[6]</a></td>
+				<td>Interpretation <a class="footnote" href="#fn6">6</a></td>
 			</tr>
 			<tr>
-				<td>Physical <a class="footnote" href="#fn6">[6]</a></td>
-				<td>Temporal <a class="footnote" href="#fn6">[6]</a></td>
-				<td>Cultural <a class="footnote" href="#fn6">[6]</a></td>
+				<td>Physical <a class="footnote" href="#fn6">6</a></td>
+				<td>Temporal <a class="footnote" href="#fn6">6</a></td>
+				<td>Cultural <a class="footnote" href="#fn6">6</a></td>
 			</tr>
 		</table>
+		<h5>Collection of definitions from article and book sources</h5>
+
 		
 		<hr />
 		
-		<h3>Notes on Articles</h3>
+		<h3 id="articles">Notes on Articles <a class="anchoref" href="#articles"><i class="far fa-link"></i></a></h3>
 
-		<h6 id="art1">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27 <a href="#art1"><i class="far fa-link"></i></a> <a href="#fn6"><i class="far fa-long-arrow-down"></i></a></h6>
+		<h6 id="art1">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27 <a href="#art1"><i class="far fa-link"></i></a> <a href="#fn6"><i class="far fa-level-down"></i></a></h6>
 		<p>There are many different models connecting designers and consumers, yet there are largely disconnected. <a href="https://www.xkcd.com/927/">XKCD Comic about Standards</a></p>
 		<blockquote><p>Unnecessary effort is expended in developing representations that duplicate those that already exist, [and] new models are developed from inappropriate foundations.</p></blockquote>
 		<p>&mdash; we need to make sure that what we're producing deserves to exist and either adds value to established models or disproves them.</p>
@@ -153,10 +203,10 @@
 		
 		<hr />
 		
-		<h6 id="art2">Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World <a href="#art2"><i class="far fa-link"></i></a> <a href="#fn5"><i class="far fa-long-arrow-down"></i></a></h6>
+		<h6 id="art2">Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World <a href="#art2"><i class="far fa-link"></i></a> <a href="#fn5"><i class="far fa-level-down"></i></a></h6>
 		
 		<blockquote><p>The task of a craftsman it not to generate meaning but rather to cultivate in himself the skill of discerning the meanings that are already there.</p></blockquote>
-		<h6 id="art3">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press <a href="#art3"><i class="far fa-link"></i></a> <a href="#fn11"><i class="far fa-long-arrow-down"></i></a></h6>
+		<h6 id="art3">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press <a href="#art3"><i class="far fa-link"></i></a> <a href="#fn11"><i class="far fa-level-down"></i></a></h6>
 		
 		<hr />
 		
@@ -174,26 +224,32 @@
 		
 		<hr />
 		
-		<h6 id="art4">Cita, N., Hekkert, P. & Visch, V. (2014). Source Selection in Product Metaphor Generation. International Journal of Design, 8(1), 15-28 <a href="#art4"><i class="far fa-link"></i></a> <a href="#fn12"><i class="far fa-long-arrow-down"></i></a></h6>
+		<h6 id="art4">Cita, N., Hekkert, P. & Visch, V. (2014). Source Selection in Product Metaphor Generation. International Journal of Design, 8(1), 15-28 <a href="#art4"><i class="far fa-link"></i></a> <a href="#fn12"><i class="far fa-level-down"></i></a></h6>
 		
 		<p>......</p>
 		
 		<hr />
 		
 		<h3>Footnotes</h3>
-		<p>1) <a id="fn1" href="http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp">The Semiotic Process and the Classification of Signs by Umberto Eco</a> (Website) <a class="footnote-back" href="javascript:history.back()">↩</a>︎</p>
-		<p>2) <a id="fn2" href="https://books.google.de/books?id=qi0enwGEeYYC&pg=PA18&lpg=PA18&dq=de+Souza,+C.+S.+(2005).+The+semiotic+engineering+of+human-computer+interaction.+Cambridge,+MA:+The+MIT+Press&source=bl&ots=vdeBquCVZ6&sig=ACfU3U1aXhHUbulE2eWgdLXg8Y73Q-iK8w&hl=en&sa=X&redir_esc=y#v=onepage&q=de%20Souza%2C%20C.%20S.%20(2005).%20The%20semiotic%20engineering%20of%20human-computer%20interaction.%20Cambridge%2C%20MA%3A%20The%20MIT%20Press&f=false">de Souza, C. S. (2005). The semiotic engineering of human-computer interaction. Cambridge, MA: The MIT Press</a> (Google Books) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
-		<p>3) <a id="fn3" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.4950&rep=rep1&type=pdf">de Souza, C. S. (2003). Semiotic engineering: bringing designers and users together at interaction time. Departamento de Informàtica, PUC-Rio, Brazil</a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
-		<p>4) <a id="fn4" href="https://link.springer.com/content/pdf/10.1007/978-0-387-34732-5_21.pdf">de Souza, C. S. (2006?). Semiotic Engineering - A New Paradigm for Designing Interactive Systems. Departamento de Informàtica, PUC-Rio, Brazil</a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
-		<p>5) <a id="fn5" href="https://ia800909.us.archive.org/13/items/DeepWorkRulesForFocusedSuccessInADistractedWorldPDFEngbbopdf.com/Deep%20Work%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World%20PDF%20engbbopdf.com.pdf">Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World. Hachette</a> (PDF), <a href="https://download.audible.com/product_related_docs/BK_TWUK_001123.pdf">Notes by the Author </a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
-		<p>6) <a id="fn6" href="https://ia800909.us.archive.org/13/items/DeepWorkRulesForFocusedSuccessInADistractedWorldPDFEngbbopdf.com/Deep%20Work%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World%20PDF%20engbbopdf.com.pdf">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27</a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
-		<p>7) <a id="fn7" href="https://andymatuschak.org/books/">Matuschak, A., (2019). Why books don’t work. San Francisco</a> (Website)</p>
-		<p>8) <a id="fn8">New Oxford American Dictionary (2020)</a> (Dictionary) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
-		<p>9) <a id="fn9">Oxford Dictionary of English (2020)</a> (Dictionary) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
-		<p>10) <a id="fn10" href="https://www.merriam-webster.com">Merriam-Webster, (2020) Merriam-Webster.com Thesaurus, s.v. </a> (Dictionary) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
-		<p>11) <a id="fn11" href="https://www.academia.edu/3069886/Dreyfus_H._and_S._D._Kelly_All_Things_Shining_Reading_the_Western_Classics_to_Find_Meaning_in_a_Secular_Age_2011_">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press</a> (PDF) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
-		<p>12) <a id="fn12" href="http://www.ijdesign.org/index.php/IJDesign/article/view/1382/613">Cita, N., Hekkert, P. & Visch, V. (2014). Source Selection in Product Metaphor Generation. International Journal of Design, 8(1), 15-28</a> (Website) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
-		<p>13) <a id="fn13" href="https://www.thesaurus.com">thesaurus.com</a> (Website) <a class="footnote-back" href="javascript:history.back()">↩</a></p>
+		<p>1) <a id="fn1" href="http://www.signosemio.com/eco/semiotic-process-and-classification-of-signs.asp">The Semiotic Process and the Classification of Signs by Umberto Eco</a> (Website) <a class="footnote-back" href="#fn1ref"><i class="far fa-level-up"></i></a></p>
+		<p>2) <a id="fn2" href="https://books.google.de/books?id=qi0enwGEeYYC&pg=PA18&lpg=PA18&dq=de+Souza,+C.+S.+(2005).+The+semiotic+engineering+of+human-computer+interaction.+Cambridge,+MA:+The+MIT+Press&source=bl&ots=vdeBquCVZ6&sig=ACfU3U1aXhHUbulE2eWgdLXg8Y73Q-iK8w&hl=en&sa=X&redir_esc=y#v=onepage&q=de%20Souza%2C%20C.%20S.%20(2005).%20The%20semiotic%20engineering%20of%20human-computer%20interaction.%20Cambridge%2C%20MA%3A%20The%20MIT%20Press&f=false">de Souza, C. S. (2005). The semiotic engineering of human-computer interaction. Cambridge, MA: The MIT Press</a> (Google Books) <a class="footnote-back" href="#fn2ref"><i class="far fa-level-up"></i></a></p>
+		<p>3) <a id="fn3" href="http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.512.4950&rep=rep1&type=pdf">de Souza, C. S. (2003). Semiotic engineering: bringing designers and users together at interaction time. Departamento de Informàtica, PUC-Rio, Brazil</a> (PDF) <a class="footnote-back" href="#fn3ref"><i class="far fa-level-up"></i></a></p>
+		<p>4) <a id="fn4" href="https://link.springer.com/content/pdf/10.1007/978-0-387-34732-5_21.pdf">de Souza, C. S. (2006?). Semiotic Engineering - A New Paradigm for Designing Interactive Systems. Departamento de Informàtica, PUC-Rio, Brazil</a> (PDF) <a class="footnote-back" href="#fn4ref"><i class="far fa-level-up"></i></a></p>
+		<p>5) <a id="fn5" href="https://ia800909.us.archive.org/13/items/DeepWorkRulesForFocusedSuccessInADistractedWorldPDFEngbbopdf.com/Deep%20Work%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World%20PDF%20engbbopdf.com.pdf">Newport, C. (2016). Deep Work: Rules for Focused Success in a Distracted World. Hachette</a> (PDF), <a href="https://download.audible.com/product_related_docs/BK_TWUK_001123.pdf">Notes by the Author </a> (PDF) <a class="footnote-back" href="#fn5ref"><i class="far fa-level-up"></i></a></p>
+		<p>6) <a id="fn6" href="https://ia800909.us.archive.org/13/items/DeepWorkRulesForFocusedSuccessInADistractedWorldPDFEngbbopdf.com/Deep%20Work%20Rules%20for%20Focused%20Success%20in%20a%20Distracted%20World%20PDF%20engbbopdf.com.pdf">Crilly, N., Maier A., Clarkson, P. J. (2008). Representing Artefacts as Media: Modelling the Relationship Between Designer Intent and Consumer Experience. International Journal of Design, 2(3), 15-27</a> (PDF) <a class="footnote-back" href="#fn6ref"><i class="far fa-level-up"></i></a></p>
+		<p>7) <a id="fn7" href="https://andymatuschak.org/books/">Matuschak, A., (2019). Why books don’t work. San Francisco</a> (Website) <a class="footnote-back" href="#fn7ref"><i class="far fa-level-up"></i></a></p>
+		<p>8) <a id="fn8">New Oxford American Dictionary (2020)</a> (Dictionary) <a class="footnote-back" href="#fn8ref"><i class="far fa-level-up"></i></a></p>
+		<p>9) <a id="fn9">Oxford Dictionary of English (2020)</a> (Dictionary) <a class="footnote-back" href="#fn9ref"><i class="far fa-level-up"></i></a></p>
+		<p>10) <a id="fn10" href="https://www.merriam-webster.com">Merriam-Webster, (2020) Merriam-Webster.com Thesaurus, s.v. </a> (Dictionary) <a class="footnote-back" href="#fn10ref"><i class="far fa-level-up"></i></a></p>
+		<p>11) <a id="fn11" href="https://www.academia.edu/3069886/Dreyfus_H._and_S._D._Kelly_All_Things_Shining_Reading_the_Western_Classics_to_Find_Meaning_in_a_Secular_Age_2011_">Dreyfus, H, and Kelly, S. D. (2011), All Things Shining: Reading the Western Classics to Find Meaning in a Secular Age. New York: Free Press</a> (PDF) <a class="footnote-back" href="#fn11ref"><i class="far fa-level-up"></i></a></p>
+		<p>12) <a id="fn12" href="http://www.ijdesign.org/index.php/IJDesign/article/view/1382/613">Cita, N., Hekkert, P. & Visch, V. (2014). Source Selection in Product Metaphor Generation. International Journal of Design, 8(1), 15-28</a> (Website) <a class="footnote-back" href="#fn12ref"><i class="far fa-level-up"></i></a></p>
+		<p>13) <a id="fn13" href="https://www.thesaurus.com">thesaurus.com</a> (Website) <a class="footnote-back" href="#fn13ref"><i class="far fa-level-up"></i></a></p>
+		<p>14) <a id="fn14" href="https://www.duden.de/rechtschreibung/Funktion">Funktion, duden.de</a> (Website) <a class="footnote-back" href="#fn14ref"><i class="far fa-level-up"></i></a></p>
+		<p>15) <a id="fn15" href="https://www.duden.de/rechtschreibung/Ritual">Ritual, duden.de</a> (Website) <a class="footnote-back" href="#fn15ref"><i class="far fa-level-up"></i></a></p>
+		<p>16) <a id="fn16" href="https://www.duden.de/rechtschreibung/Mythos">Mythos, duden.de</a> (Website) <a class="footnote-back" href="#fn16ref"><i class="far fa-level-up"></i></a></p>
+		<p>17) <a id="fn17" href="https://www.larousse.fr/dictionnaires/francais/utilité/80821?q=utilité#79878">Utilité, larousse.fr</a> (Website) <a class="footnote-back" href="#fn17ref"><i class="far fa-level-up"></i></a></p>
+		<p>18) <a id="fn18" href="https://www.larousse.fr/dictionnaires/francais/rituel/69585?q=rituel#68833">Rituel, larousse.fr</a> (Website) <a class="footnote-back" href="#fn18ref"><i class="far fa-level-up"></i></a></p>
+		<p>19) <a id="fn19" href="https://www.larousse.fr/dictionnaires/francais/mythe/53630?q=mythe#53277">Mythe, larousse.fr</a> (Website) <a class="footnote-back" href="#fn19ref"><i class="far fa-level-up"></i></a></p>
 		
 
 <hr />
