@@ -7,7 +7,7 @@
 
       <div class="inline">
         <h2 class="article_title_list article_title single">Design for Meaning Journal</h2>
-        <h4>Updated March 24th, 2020</h4>
+        <h4>Updated March 27th, 2020</h4>
       </div>
       
       <h3 id="toc" class="article_title_list article_title single">Table of Contents <a class="anchoref" href="#toc"><i class="far fa-link"></i></a></h3>
