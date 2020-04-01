@@ -133,13 +133,13 @@
 		
 		<h5>Collection of definitions from dictionary sources. *translated from original language into English.</h5>
 		
-		<img src="/img/function.png" alt="word cloud for function" />
+		<img src="/issues/dfm/img/function.png" alt="word cloud for function" />
 		
-		<img src="/img/ritual.png" alt="word cloud for ritual" />
+		<img src="/issues/dfm/img/ritual.png" alt="word cloud for ritual" />
 		
-		<img src="/img/myth.png" alt="word cloud for myth" />
+		<img src="/issues/dfm/img/myth.png" alt="word cloud for myth" />
 		
-		<img src="/img/meaning.png" alt="word cloud for meaning" />
+		<img src="/issues/dfm/img/meaning.png" alt="word cloud for meaning" />
 		
 		<h3>Function</h3>
 		<p></p>
