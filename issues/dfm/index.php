@@ -55,51 +55,79 @@
 				<th>Function</th>
 				<th>Ritual</th>
 				<th>Myth</th>
+				<th>Meaning</th>
 			</tr>
 			<tr>
 				<td>(noun) an activity or purpose natural to or intended for a person or thing <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
 				<td>(noun) a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
 				<td>(noun) a traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon, and typically involving supernatural beings or events <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
+				<td>(noun) what is meant by a word, text, concept, or action <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
 			</tr>
 			<tr>
 				<td>(verb) work or operate in a proper or particular way <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
 				<td>(adjective) arising from convention or habit <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
 				<td>(noun) an exaggerated or idealized conception of a person or thing <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
+				<td>(adjective) intended to communicate something that is not directly expressed <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
 			</tr>
 			<tr>
 				<td>Responsibility, Use, Duty, Activity, Job <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
 				<td>Performance, Practise, Convention, Procedure <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
 				<td>Story, Fiction, Tale <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
+				<td>Significance, Sense, Message, Substance, Essence <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
 			</tr>
 			<tr>
 				<td>≠ Idleness, Fun, Inertia <a class="footnote" id="fn13ref" href="#fn13">13</a></td>
 				<td>≠ Neglect, Disagreement, Discord <a class="footnote" id="fn13ref" href="#fn13">13</a></td>
-				<td>≠ Fact, Reality, Certainty<a class="footnote" id="fn13ref" href="#fn13">13</a></td>
+				<td>≠ Fact, Reality, Certainty <a class="footnote" id="fn13ref" href="#fn13">13</a></td>
+				<td>≠ Inexpressive, Empty, Vague, Worthless, Nameless, Obscure <a class="footnote" id="fn13ref" href="#fn13">13</a></td>
 			</tr>
 			<tr>
 				<td>the action for which a person or thing is specially fitted or used or for which a thing exists <a class="footnote" href="#fn10">10</a></td>
 				<td>a usual manner of behaving or doing <a class="footnote" id="fn10ref" href="#fn10">10</a></td>
 				<td>the body of customs, beliefs, stories, and sayings associated with a people, thing, or place <a class="footnote" href="#fn10">10</a></td>
+				<td>the thing one intends to convey especially by language <a class="footnote" href="#fn10">10</a></td>
 			</tr>
 			<tr>
 				<td>Anforderung, Arbeit, Aufgabe, Bestimmung, Pflicht, Rolle, Zweck <a class="footnote" id="fn14ref" href="#fn14">14</a></td>
 				<td>wiederholtes, immer gleichbleibendes, regelmäßiges Vorgehen nach einer festgelegten Ordnung; Zeremoniell <a class="footnote" id="fn15ref" href="#fn15">15</a></td>
 				<td>Person, Sache, Begebenheit, die (aus meist verschwommenen, irrationalen Vorstellungen heraus) glorifiziert wird, legendären Charakter hat <a class="footnote" id="fn16ref" href="#fn16">16</a></td>
+				<td>Sinn, der in Handlungen, Gegebenheiten, Dingen, Erscheinungen liegt <a class="footnote" id="fn16ref" href="#fn16">16</a></td>
 			</tr>
 			<tr>
 				<td>Requirement, Work, Task, Design, Duty, Role, Purpose <a class="footnote" id="fn14ref" href="#fn14">14*</td>
 				<td>repeating, unchanging, regular process in a fixed order; ceremonial <a class="footnote" id="fn15ref" href="#fn15">15*</a></td>
 				<td>Person, thing, event with a glorified, legendary character (often with blurry, irrational imagination) <a class="footnote" id="fn16ref" href="#fn16">16*</a></td>
+				<td>Underlying sense behind actions, events, things, appearances <a class="footnote" id="fn16ref" href="#fn16">16*</a></td>
 			</tr>
 			<tr>
 				<td>Fait de servir à quelque chose <a class="footnote" id="fn17ref" href="#fn17">17</a></td>
 				<td>Ensemble des règles et des habitudes fixées par la tradition  <a class="footnote" id="fn18ref" href="#fn18">18</a></td>
 				<td>Ensemble de croyances, de représentations idéalisées autour d'un personnage, d'un phénomène, d'un événement historique, d'une technique et qui leur donnent une force, une importance particulières <a class="footnote" id="fn19ref" href="#fn19">19</a></td>
+				<td>Ce que quelque chose signifie, ensemble d'idées que représente un signe, un symbole <a class="footnote" id="fn19ref" href="#fn19">19</a></td>
 			</tr>
 			<tr>
 				<td>Made to serve a purpose <a class="footnote" id="fn17ref" href="#fn17">17*</a></td>
 				<td>Body of rules and habits fixed by tradition  <a class="footnote" id="fn18ref" href="#fn18">18*</a></td>
 				<td>Body of beliefs, of idealised representations around a person, phenomenon, event or technique giving them a particular force and importance <a class="footnote" id="fn19ref" href="#fn19">19*</a></td>
+				<td>The sense of something, body of ideas a symbol represents <a class="footnote" id="fn19ref" href="#fn19">19*</a></td>
+			</tr>
+			<tr>
+				<td>the natural purpose (of something) or the duty (of a person) <a class="footnote" id="fn20ref" href="#fn20">20</a></td>
+				<td>a set of fixed actions and sometimes words performed regularly, especially as part of a ceremony <a class="footnote" id="fn21ref" href="#fn21">21</a></td>
+				<td>an ancient story or set of stories, especially explaining the early history of a group of people or about natural events and facts <a class="footnote" id="fn22ref" href="#fn22">22</a></td>
+				<td>The meaning of something is what it expresses or represents <a class="footnote" id="fn23ref" href="#fn23">23</a></td>				
+			</tr>
+			<tr>
+				<td>the way in which something works or operates <a class="footnote" id="fn20ref" href="#fn20">20</a></td>
+				<td>any act done regularly, usually without thinking about it <a class="footnote" id="fn21ref" href="#fn21">21</a></td>
+				<td>a commonly believed but false idea <a class="footnote" id="fn22ref" href="#fn22">22</a></td>
+				<td>importance or value <a class="footnote" id="fn23ref" href="#fn23">23</a></td>
+			</tr>
+			<tr>
+				<td>Goal, Purpose, Point, Objective, Utility <a class="footnote" id="fn20ref" href="#fn20">20</a></td>
+				<td>Habitual, Ceremony <a class="footnote" id="fn21ref" href="#fn21">21</a></td>
+				<td>Saga, Legend, Portrait, Story <a class="footnote" id="fn22ref" href="#fn22">22</a></td>
+				<td>Connotation, Significance, Essence, Sense, Value <a class="footnote" id="fn23ref" href="#fn23">23</a></td>
 			</tr>
 		</table>
 		
@@ -330,7 +358,9 @@ number of participants so as to rate on a scale 1 to 5 the relevance of each wor
 		<p>17) <a id="fn17" href="https://www.larousse.fr/dictionnaires/francais/utilité/80821?q=utilité#79878">Utilité, larousse.fr</a> (Website) <a class="footnote-back" href="#fn17ref"><i class="far fa-level-up"></i></a></p>
 		<p>18) <a id="fn18" href="https://www.larousse.fr/dictionnaires/francais/rituel/69585?q=rituel#68833">Rituel, larousse.fr</a> (Website) <a class="footnote-back" href="#fn18ref"><i class="far fa-level-up"></i></a></p>
 		<p>19) <a id="fn19" href="https://www.larousse.fr/dictionnaires/francais/mythe/53630?q=mythe#53277">Mythe, larousse.fr</a> (Website) <a class="footnote-back" href="#fn19ref"><i class="far fa-level-up"></i></a></p>
-		
+		<p>20) <a id="fn20" href="https://dictionary.cambridge.org/dictionary/english/function">Function, Cambridge Academic Content Dictionary, Cambridge University Press</a> (Website) <a class="footnote-back" href="#fn20ref"><i class="far fa-level-up"></i></a></p>
+		<p>21) <a id="fn21" href="https://dictionary.cambridge.org/dictionary/english/ritual">Ritual, Cambridge Academic Content Dictionary, Cambridge University Press</a> (Website) <a class="footnote-back" href="#fn21ref"><i class="far fa-level-up"></i></a></p>
+		<p>22) <a id="fn22" href="https://dictionary.cambridge.org/dictionary/english/myth">Myth, Cambridge Academic Content Dictionary, Cambridge University Press</a> (Website) <a class="footnote-back" href="#fn22ref"><i class="far fa-level-up"></i></a></p>
 <hr />
 
 </div>
