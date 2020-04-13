@@ -494,6 +494,21 @@ tr:nth-child(odd) {
 	background-color: #f1f1f1;
 }
 
+table.conceptnet {
+	text-transform: capitalize;
+}
+
+span.weight {
+	color: grey;
+	padding-left: 0.5em;
+	font-family: concourse;
+	font-size: 0.7em;
+}
+
+td.x {
+	color: #bbb;
+}
+
 ul ul {
 	padding-left: 1em;	
 	border-left: 4px solid #eee;}

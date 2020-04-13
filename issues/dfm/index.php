@@ -133,6 +133,8 @@
 		
 		<h5>Collection of definitions from dictionary sources. *translated from original language into English.</h5>
 		
+		<h3>Preliminary word cloud</h3>
+		
 		<img src="/issues/dfm/img/function.png" alt="word cloud for function" />
 		<h5>Word cloud for function</h5>
 		
@@ -144,6 +146,270 @@
 		
 		<img src="/issues/dfm/img/meaning.png" alt="word cloud for meaning" />
 		<h5>Word cloud for meaning</h5>
+		
+		<h3>Related words from <a href="https://github.com/commonsense/conceptnet5/wiki/API" target="_blank">ConceptNet</a></h3>
+		
+		<table class="conceptnet">
+			<tr>
+				<th>Function</th>
+				<th>Ritual</th>
+				<th>Myth</th>
+				<th>Meaning</th>
+			</tr>
+			<tr>
+				<td>raison d'^etre<span class='weight'>0.543</span></td>
+				<td class="x">rites<span class='weight'>0.81</span></td>
+				<td>legend<span class='weight'>0.605</span></td>
+				<td>dictionary definition<span class='weight'>0.666</span></td>
+			</tr>
+			<tr>
+				<td>multivalued<span class='weight'>0.512</span></td>
+				<td>rite<span class='weight'>0.785</span></td>
+				<td class="x">legends<span class='weight'>0.586</span></td>
+				<td class="x">signification<span class='weight'>0.646</span></td>
+			</tr>
+			<tr>
+				<td>codomain<span class='weight'>0.432</span></td>
+				<td>kanzo<span class='weight'>0.606</span></td>
+				<td>fable<span class='weight'>0.524</span></td>
+				<td>connotation<span class='weight'>0.585</span></td>
+			</tr>
+			<tr>
+				<td>operate<span class='weight'>0.414</span></td>
+				<td>havan<span class='weight'>0.603</span></td>
+				<td>folklore<span class='weight'>0.518</span></td>
+				<td>significance<span class='weight'>0.533</span></td>
+			</tr>
+			<tr>
+				<td>lft<span class='weight'>0.41</span></td>
+				<td class="x">ceremonial<span class='weight'>0.602</span></td>
+				<td>folktale<span class='weight'>0.518</span></td>
+				<td>denotation<span class='weight'>0.525</span></td>
+			</tr>
+			<tr>
+				<td>nonworking<span class='weight'>0.402</span></td>
+				<td class="x">ceremonies<span class='weight'>0.597</span></td>
+				<td>tale<span class='weight'>0.507</span></td>
+				<td class="x">connotations<span class='weight'>0.497</span></td>
+			</tr>
+			<tr>
+				<td>arity<span class='weight'>0.385</span></td>
+				<td>ceremony<span class='weight'>0.596</span></td>
+				<td class="x">fables<span class='weight'>0.497</span></td>
+				<td>logotherapy<span class='weight'>0.487</span></td>
+			</tr>
+			<tr>
+				<td>parameter<span class='weight'>0.377</span></td>
+				<td>tumah<span class='weight'>0.523</span></td>
+				<td>fairy tale<span class='weight'>0.472</span></td>
+				<td class="x">meant<span class='weight'>0.481</span></td>
+			</tr>
+			<tr>
+				<td>variables<span class='weight'>0.376</span></td>
+				<td>phurba<span class='weight'>0.511</span></td>
+				<td class="x">tales<span class='weight'>0.466</span></td>
+				<td>word<span class='weight'>0.47</span></td>
+			</tr>
+			<tr>
+				<td>homothetic<span class='weight'>0.373</span></td>
+				<td class="x">ceremonially<span class='weight'>0.507</span></td>
+				<td class="x">fairytale<span class='weight'>0.465</span></td>
+				<td>intension<span class='weight'>0.468</span></td>
+			</tr>
+			<tr>
+				<td>unary<span class='weight'>0.37</span></td>
+				<td>neo pagan<span class='weight'>0.478</span></td>
+				<td class="x">fabled<span class='weight'>0.449</span></td>
+				<td>means<span class='weight'>0.463</span></td>
+			</tr>
+			<tr>
+				<td>subroutine<span class='weight'>0.369</span></td>
+				<td>wiccan<span class='weight'>0.477</span></td>
+				<td class="x">fairytales<span class='weight'>0.447</span></td>
+				<td>implicature<span class='weight'>0.463</span></td>
+			</tr>
+			<tr>
+				<td>boolean<span class='weight'>0.357</span></td>
+				<td>puja<span class='weight'>0.473</span></td>
+				<td>misconceptions<span class='weight'>0.446</span></td>
+				<td class="x">definition<span class='weight'>0.459</span></td>
+			</tr>
+			<tr>
+				<td>role<span class='weight'>0.356</span></td>
+				<td class="x">ceremonious<span class='weight'>0.469</span></td>
+				<td>tall tale<span class='weight'>0.444</span></td>
+				<td class="x">denotative<span class='weight'>0.446</span></td>
+			</tr>
+			<tr>
+				<td>duties<span class='weight'>0.353</span></td>
+				<td>bat mitzvah<span class='weight'>0.468</span></td>
+				<td class="x">fairy tales<span class='weight'>0.438</span></td>
+				<td>phrase<span class='weight'>0.443</span></td>
+			</tr>
+			<tr>
+				<td class="x">performs<span class='weight'>0.347</span></td>
+				<td>whirling dervishes<span class='weight'>0.463</span></td>
+				<td class="x">debunking<span class='weight'>0.435</span></td>
+				<td class="x">signifying<span class='weight'>0.443</span></td>
+			</tr>
+			<tr>
+				<td class="x">bool<span class='weight'>0.347</span></td>
+				<td>shechita<span class='weight'>0.461</span></td>
+				<td>debunked<span class='weight'>0.43</span></td>
+				<td class="x">definitions<span class='weight'>0.439</span></td>
+			</tr>
+			<tr>
+				<td>perform<span class='weight'>0.345</span></td>
+				<td>last rites<span class='weight'>0.46</span></td>
+				<td>procris<span class='weight'>0.429</span></td>
+				<td class="x">mean<span class='weight'>0.432</span></td>
+			</tr>
+			<tr>
+				<td>extensionality<span class='weight'>0.336</span></td>
+				<td>sweat lodge<span class='weight'>0.451</span></td>
+				<td class="x">folkloristics<span class='weight'>0.423</span></td>
+				<td class="x">signified<span class='weight'>0.425</span></td>
+			</tr>
+			<tr>
+				<td class="x">booleans<span class='weight'>0.332</span></td>
+				<td>cultic<span class='weight'>0.449</span></td>
+				<td>menehune<span class='weight'>0.417</span></td>
+				<td class="x">connotative<span class='weight'>0.423</span></td>
+			</tr>
+		</table>
+		<h5>Related words from ConceptNet and a custom python script</h5>
+
+<h3>Related words from word2vec from the <a href="http://bionlp-www.utu.fi/wv_demo/" target="_blank">University of Turku</a></h3>
+
+<table>
+		<tr>
+			<th>Function</th>
+			<th>Ritual</th>
+			<th>Myth</th>
+			<th>Meaning</th>
+		</tr>
+    <tr>
+        <td>specific</td>
+        <td>nature</td>
+        <td class="x">even</td>
+        <td>importance</td>
+    </tr>
+    <tr>
+        <td>potential</td>
+        <td>whole</td>
+        <td>past</td>
+        <td>influence</td>
+    </tr>
+    <tr>
+        <td>process</td>
+        <td>movement</td>
+        <td class="x">though</td>
+        <td>understanding</td>
+    </tr>
+    <tr>
+        <td>system</td>
+        <td>violence</td>
+        <td class="x">often</td>
+        <td>needs</td>
+    </tr>
+    <tr>
+        <td>current</td>
+        <td>rise</td>
+        <td>one</td>
+        <td>ideas</td>
+    </tr>
+    <tr>
+        <td>activity</td>
+        <td class="x">thus</td>
+        <td>evidence</td>
+        <td>experiences</td>
+    </tr>
+    <tr>
+        <td>structure</td>
+        <td class="x">both</td>
+        <td>coming</td>
+        <td>possibilities</td>
+    </tr>
+    <tr>
+        <td>operation</td>
+        <td>process</td>
+        <td>itself</td>
+        <td>participants</td>
+    </tr>
+    <tr>
+        <td>changes</td>
+        <td>through</td>
+        <td>meaning</td>
+        <td>challenges</td>
+    </tr>
+    <tr>
+        <td>patient</td>
+        <td>culture</td>
+        <td class="x">the</td>
+        <td>work</td>
+    </tr>
+    <tr>
+        <td>use</td>
+        <td class="x">its</td>
+        <td class="x">yet</td>
+        <td>situation</td>
+    </tr>
+    <tr>
+        <td>evaluation</td>
+        <td>structure</td>
+        <td>war</td>
+        <td class="x">both</td>
+    </tr>
+    <tr>
+        <td>exercise</td>
+        <td>contemporary</td>
+        <td>beyond</td>
+        <td class="x">thus</td>
+    </tr>
+    <tr>
+        <td>method</td>
+        <td>knowledge</td>
+        <td>history</td>
+        <td class="x">especially</td>
+    </tr>
+    <tr>
+        <td>assessment</td>
+        <td>individual</td>
+        <td class="x">most</td>
+        <td>itself</td>
+    </tr>
+    <tr>
+        <td>processes</td>
+        <td>state</td>
+        <td class="x">that</td>
+        <td class="x">therefore</td>
+    </tr>
+    <tr>
+        <td>increase</td>
+        <td>understanding</td>
+        <td>truth</td>
+        <td>parents</td>
+    </tr>
+    <tr>
+        <td>influence</td>
+        <td class="x">the</td>
+        <td class="x">without</td>
+        <td>whole</td>
+    </tr>
+    <tr>
+        <td>context</td>
+        <td>blood</td>
+        <td>possible</td>
+        <td>use</td>
+    </tr>
+    <tr>
+        <td>factors</td>
+        <td>across</td>
+        <td class="x">simply</td>
+        <td class="x">further</td>
+    </tr>
+</table>
+<h5>Related words from words2vec</h5>
 		
 		<h3>Function</h3>
 		<p></p>
