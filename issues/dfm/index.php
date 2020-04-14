@@ -147,7 +147,7 @@
 		<img src="/issues/dfm/img/meaning.png" alt="word cloud for meaning" />
 		<h5>Word cloud for meaning</h5>
 		
-		<h3>Related words from <a href="https://github.com/commonsense/conceptnet5/wiki/API" target="_blank">ConceptNet</a></h3>
+		<h3 id="conceptnet">Related words from <a href="https://github.com/commonsense/conceptnet5/wiki/API" target="_blank">ConceptNet</a> <a class="anchoref" href="#conceptnet"><i class="far fa-link"></i></a></h3>
 		
 		<table class="conceptnet">
 			<tr>
@@ -279,7 +279,7 @@
 		</table>
 		<h5>Related words from ConceptNet and a custom python script</h5>
 
-<h3>Related words from word2vec from the <a href="http://bionlp-www.utu.fi/wv_demo/" target="_blank">University of Turku</a></h3>
+<h3 id="word2vec">Related words from word2vec from the <a href="http://bionlp-www.utu.fi/wv_demo/" target="_blank">University of Turku</a> <a class="anchoref" href="#word2vec"><i class="far fa-link"></i></a></h3>
 
 <table>
 		<tr>
