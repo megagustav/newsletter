@@ -49,6 +49,328 @@
 		different sources<br />
 		synonyms and antonyms </p>
 		
+		<h3 id="def-function">Dictionary definitions of Function <a class="anchoref" href="#def-function"><i class="far fa-link"></i></a></h3>
+		
+		</section>
+		<table class="w100" id="function">
+			<tr>
+				<th>New Oxford American Dictionary <a class="footnote" id="fn8ref" href="#fn8">8</a></th>
+				<td>(noun) an activity or purpose natural to or intended for a person or thing: practical use or purpose in design. a basic task of a computer, especially one that corresponds to a single instruction from the user</td>
+				<td>(noun) a relationship or expression involving one or more variables</td>
+				<td>(noun) a thing dependent on another factor or factors</td>
+				<td>(noun) a large or formal social event or ceremony</td>
+				<td>(verb) work or operate in a proper or particular way</td>
+				<td>(verb) fulfill the purpose or task of (a specified thing)</td>
+			</tr>
+			<tr>
+				<th>Oxford American Writer's Thesaurus <a class="footnote" href="#fn24">24</a></th>
+				<td> the main function of the machine: purpose, task, use, role; reason, basis, justification</td>
+				<td>the committee's function is to arrange social activities: responsibility, duty, concern, province, aim, activity, assignment, obligation, charge; task, chore, job, role, errand, mission, detail, undertaking, commission; capacity, post, situation, office, occupation, employment, business, operation; <i>French</i> raison d'être; <i>British</i> line of country; <i>informal</i> thing, bag, pigeon.</td>
+				<td>casualties are a function of war: consequence, result, outcome, ramification, corollary, concomitant; <i>dated</i> issue. <i>ANTONYMS</i> cause</td>
+				<td>he was obliged to attend political functions: social event, party, occasion, social occasion, affair, gathering, reception, soirée, celebration, jamboree, gala; <i>North American</i> levee; <i>informal</i> do, bash, shindig, shindy, blowout; <i>British informal</i> rave-up, thrash, knees-up, jolly, beanfeast, bunfight, beano, lig.</td>
+				<td>(verb) if we unplug a TV set, it ceases to function: work, go, run, be in working/running order, operate, perform, be in action, be operative. <i>ANTONYMS</i> malfunction</td>
+				<td>the museum intends to function as an educational and study center: serve, act, operate, perform, work, behave; have/do the job of, play the role of, act the part of, perform the function of, do duty as, constitute, form.</td>
+			</tr>
+			<tr>
+				<th>Merriam-Webster <a class="footnote" href="#fn10">10</a></th>
+				<td>professional or official position, occupation</td>
+				<td>the action for which a person or thing is specially fitted or used or for which a thing exists, purpose</td>
+				<td>any of a group of related actions contributing to a larger action</td>
+				<td>an official or formal ceremony or social gathering</td>
+				<td>a mathematical correspondence that assigns exactly one element of one set to each element of the same or another set</td>
+				<td>characteristic behavior of a chemical compound due to a particular reactive unit</td>
+				<td>a computer subroutine</td>
+				<td>(verb) to have a function, serve</td>
+				<td>(verb) to carry on a function or be in action, operate</td>
+			</tr>
+			<tr>
+				<th>Oxford Dictionary of English <a class="footnote" href="#fn9">9</a></th>
+				<td>an activity that is natural to or the purpose of a person or thing</td>
+				<td>a relation or expression involving one or more variables</td>
+				<td>a thing dependent on another factor or factors</td>
+				<td>a large or formal social event or ceremony</td>
+				<td>(verb) work or operate in a proper or particular way</td>
+			</tr>
+			<tr>
+				<th>Cambridge Dictionary <a class="footnote" href="#fn20">20</a</th>
+				<td>purpose: the natural purpose (of something) or the duty (of a person)</td>
+				<td>ceremony: an official ceremony or a formal social event, such as a party or a special meal, at which a lot of people are usually present</td>
+				<td>work: the way in which something works or operates</td>
+				<td>computer: a process that a computer or a computer program uses to complete a task</td>
+				<td>result: something that results from something else, or is the way it is because of something else</td>
+				<td>(in mathematics) a quantity whose value depends on another value and changes with that value</td>
+				<td>(verb) to work or operate</td>
+			</tr>
+			<tr>
+				<th>Cambridge Thesaurus <a class="footnote" href="#fn20">20</a</th>
+				<td>purpose: goal, purpose, affordance, aspiration, order, use, objective, utility</td>
+				<td>ceremony: cavalcade, initiation, ritual, salute</td>
+				<td>work: act, operate, serve</td>
+				<td>computer: aliasing, bitmap, clickable, Skype</td>
+				<td>result: age, bed, fruit, irony, sequel, éclat</td>
+				<td>mathematics: arithmetic, differential, golden ratio, percent</td>
+				<td>(verb) to work or operate: act, operate, purpose, work</td>
+			</tr>
+			<tr>
+				<th>Duden <a class="footnote" id="fn16ref" href="#fn16">16*</a></th>
+				<td>Job, Work</td>
+				<td>Position or role of someone as part of something larger (function at a party)</td>
+				<td>(clear) task as part of a larger whole (brain function)</td>
+				<td>of a device, computer, program (calling a function)</td>
+				<td>representation (a function with two variables)</td>
+				<td>Requirement, work, task, job, duty, role, calling, destiny, purpose, mission</td>
+				<td>Job, property, business, position, role, post</td>
+			</tr>
+			<tr>
+				<th>Larousse <a class="footnote" id="fn17ref" href="#fn17">17*</a></th>
+				<td>Body of operations leading to a common result, executed by an organ or a group of organs</td>
+				<td>(economy) Body of coordinated operations leading to the desires outcome of a company</td>
+				<td>(IT) Body of instructions part of a sub-program identifiable by a name found on memory or within a program</td>
+				<td>(linguistics) Role played by an element within a grammatical structure of a sentence.</td>
+				<td>(Maths) Relation which links each of its associated elements to an image</td>
+				<td>(political) Each branch in the separation of power: legislature, executive, judiciary</td>
+				<td>(sociology) Made to serve a purpose</td>
+			</tr>
+		</table>
+		
+		<h5>Collection of definitions from dictionary sources. *translated from original language into English.</h5>
+		
+		<section>
+		<h3 id="def-ritual">Dictionary definitions of Ritual <a class="anchoref" href="#def-ritual"><i class="far fa-link"></i></a></h3>
+		
+		</section>
+		<table class="w100" id="ritual">
+			<tr>
+				<th>New Oxford American Dictionary <a class="footnote" id="fn8ref" href="#fn8">8</a></th>
+				<td>(noun) a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order</td>
+				<td>(noun) the prescribed order of performing a ceremony, especially one characteristic of a particular religion or church</td>
+				<td>(noun) a series of actions or type of behavior regularly and invariably followed by someone</td>
+				<td>(adjective) relating to or done as a religious or solemn rite</td>
+				<td>(adjective) (of an action) arising from convention or habit</td>
+			</tr>
+			<tr>
+				<th>Oxford American Writer's Thesaurus <a class="footnote" href="#fn24">24</a></th>
+				<td>(noun) ceremony, rite, ceremonial, observance; service, sacrament, liturgy, worship; office, celebration, performance, act, practice, order, custom, tradition, convention, institution, formality, procedure, protocol</td>
+				<td>(adjective) ceremonial, ritualistic, prescribed, set, formal, stately, solemn, dignified, celebratory, sacramental, liturgical; customary, traditional, conventional, routine, usual, habitual.</td>
+			</tr>
+			<tr>
+				<th>Merriam-Webster <a class="footnote" href="#fn10">10</a></th>
+				<td>(adj) of or relating to rites or a ritual : CEREMONIAL</td>
+				<td>(adj) according to religious law</td>
+				<td>(adj) done in accordance with social custom or normal protocol, any of a group of related actions contributing to a larger action</td>
+				<td>(noun) the established form for a ceremony. 
+<i>specifically</i>: the order of words prescribed for a religious ceremony</td>
+				<td>a: ritual observance,
+<i>specifically</i>: a system of rites. b: a ceremonial act or action. c: an act or series of acts regularly repeated in a set precise manner</td>
+				<td>custom, fashion, habit, pattern, practise, second nature, trick, way, wont, addiction, disposition, manner, ceremony, form, observance, etiquette</td>
+			</tr>
+			<tr>
+				<th>Oxford Dictionary of English <a class="footnote" href="#fn9">9</a></th>
+				<td>(noun) a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order</td>
+				<td>(noun) a prescribed order for performing a ritual ceremony, especially one characteristic of a particular religion or Church</td>
+				<td>(noun) a series of actions or type of behaviour regularly and invariably followed by someone</td>
+				<td>(adjective) relating to or done as a religious or solemn rite</td>
+				<td>(adjective) (of an action) arising from convention or habit</td>
+			</tr>
+			<tr>
+				<th>Cambridge Dictionary <a class="footnote" href="#fn20">20</a</th>
+				<td>a set of fixed actions and sometimes words performed regularly, especially as part of a ceremony</td>
+				<td>a set of actions or words performed in a regular way, often as part of a religious ceremony</td>
+				<td>A ritual is also any act done regularly, usually without thinking about it</td>
+			</tr>
+			<tr>
+				<th>Cambridge Thesaurus <a class="footnote" href="#fn20">20</a</th>
+				<td>ceremony: cavalcade, initiation, ritual, salute</td>
+			</tr>
+			<tr>
+				<th>Duden <a class="footnote" id="fn16ref" href="#fn16">16*</a></th>
+				<td>Written and fixed order of liturgy</td>
+				<td>body of rites and ceremonies of a religious cult</td>
+				<td>repeated, constant, regular behavior after a fixed order, ceremonially</td>
+			</tr>
+			<tr>
+				<th>Larousse <a class="footnote" id="fn17ref" href="#fn17">17*</a></th>
+				<td>Gestures, symbols, prayers forming a body of ceremonies of a religion</td>
+				<td>In Latin church, liturgical writing containing the rites of the priest</td>
+				<td>Body of acts, of sayings and objects, codifies in a strict manner, based on a belief of their efficacy which are inhuman and appropriate for specific situations </td>
+				<td>body of rules and habits fixed by tradition</td>
+			</tr>
+		</table>
+		
+		<h5>Collection of definitions from dictionary sources. *translated from original language into English.</h5>
+		
+		<section>
+		<h3 id="def-myth">Dictionary definitions of Myth <a class="anchoref" href="#def-myth"><i class="far fa-link"></i></a></h3>
+		
+		</section>
+		<table class="w100" id="myth">
+			<tr>
+				<th>New Oxford American Dictionary <a class="footnote" id="fn8ref" href="#fn8">8</a></th>
+				<td>(noun) a traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon, and typically involving supernatural beings or events</td>
+				<td>(noun) a widely held but false belief or idea</td>
+				<td>(noun) a misrepresentation of the truth</td>
+				<td>(noun) a fictitious or imaginary person or thing</td>
+				<td>(noun) an exaggerated or idealized conception of a person or thing</td>
+			</tr>
+			<tr>
+				<th>Oxford American Writer's Thesaurus <a class="footnote" href="#fn24">24</a></th>
+				<td>folk tale, story, folk story, legend, tale, fable, saga, allegory, parable, tradition, lore, folklore; <i>technical</i> mythos, mythus</td>
+				<td>misconception, fallacy, mistaken belief, false notion, misbelief, old wives' tale, fairy story, fairy tale, fiction, fantasy, delusion, figment of the imagination; invention, fabrication, falsehood, untruth, lie, trumped-up story, fake news, alternative fact; <i>informal</i> story, tall story, tall tale, fib, cock and bull story, kidology.</td>
+			</tr>
+			<tr>
+				<th>Merriam-Webster <a class="footnote" href="#fn10">10</a></th>
+				<td>(noun) a usually traditional story of ostensibly historical events that serves to unfold part of the world view of a people or explain a practice, belief, or natural phenomenon</td>
+				<td>(noun) a popular belief or tradition that has grown up around something or someone</td>
+				<td>(noun) a person or thing having only an imaginary or unverifiable existence</td>
+				<td>(noun) the whole body of myths</td>
+				<td>fable, legend, mythos, allegory, parable, fabrication, fantasy, fiction, figment, invention, narrative, saga, story, tale, yearn, lore, tradition, anecdote, knowledge, wisdom, misbelief, delusion, error, hallucination, untruth</td>
+			</tr>
+			<tr>
+				<th>Oxford Dictionary of English <a class="footnote" href="#fn9">9</a></th>
+				<td>(noun) a traditional story, especially one concerning the early history of a people or explaining a natural or social phenomenon, and typically involving supernatural beings or events</td>
+				<td>(noun) a widely held but false belief or idea</td>
+				<td>(noun) a misrepresentation of the truth</td>
+				<td>(noun) a fictitious or imaginary person or thing</td>
+				<td>(noun) an exaggerated or idealized conception of a person or thing</td>
+			</tr>
+			<tr>
+				<th>Cambridge Dictionary <a class="footnote" href="#fn20">20</a</th>
+				<td>an ancient story or set of stories, especially explaining the early history of a group of people or about natural events and facts</td>
+				<td>a commonly believed but false idea</td>
+				<td>a traditional story, esp. one which explains the early history or a cultural belief or practice of a group of people, or explains a natural event</td>
+			</tr>
+			<tr>
+				<th>Cambridge Thesaurus <a class="footnote" href="#fn20">20</a</th>
+				<td>anecdote, arc, brushstroke, commentary, lore, plot, saga, story, legend, tale, portrait</td>
+				<td>artifice, lie, falsification, perjury, fiction, hypocrisy</td>
+			</tr>
+			<tr>
+				<th>Duden <a class="footnote" id="fn16ref" href="#fn16">16*</a></th>
+				<td>Tradition, Tale, story of a old time of the people, esp. of creation of the world including gods, demons</td>
+				<td>person, thing, event, with a glorified character (often irrationally)</td>
+			</tr>
+			<tr>
+				<th>Larousse <a class="footnote" id="fn17ref" href="#fn17">17*</a></th>
+				<td>Tale of super-natural beings, of imaginary actions, of collective phantasies, etc.</td>
+				<td>Philosophical allegory</td>
+				<td>imaginary person of which multiple traits correspond to the ideal image of man, an exemplary model</td>
+				<td>Body of beliefs, of idealised representations around a person, phenomenon, event or technique giving them a particular force and importance</td>
+				<td>what is imaginary, stripped from value and reality</td>
+				<td>fable, legend, allegory, history, illusion, invention, lie, dream</td>
+			</tr>
+		</table>
+				
+		<section>
+		
+		<h5>Collection of definitions from dictionary sources. *translated from original language into English.</h5>
+
+		<h3 id="def-meaning">Dictionary definitions of Meaning <a class="anchoref" href="#def-meaning"><i class="far fa-link"></i></a></h3>
+		
+		</section>
+		<table class="w100" id="meaning">
+			<tr>
+				<th>New Oxford American Dictionary <a class="footnote" id="fn8ref" href="#fn8">8</a></th>
+				<td>(noun) what is meant by a word, text, concept, or action</td>
+				<td>(noun) implied or explicit significance</td>
+				<td>(noun) important or worthwhile quality; purpose</td>
+				<td>(adj) intended to communicate something that is not directly expressed</td>
+			</tr>
+			<tr>
+				<th>Oxford American Writer's Thesaurus <a class="footnote" href="#fn24">24</a></th>
+				<td>significance, sense, signification, import, thrust, drift, gist, implication, tenor, message, essence, substance, purport, intention</td>
+				<td>definition, sense, explanation, denotation, connotation, interpretation, elucidation, explication</td>
+				<td>value, validity, worth, consequence, account, use, usefulness, significance, point</td>
+				<td>expressiveness, significance, eloquence, implications, intimations, insinuations</td>
+			</tr>
+			<tr>
+				<th>Merriam-Webster <a class="footnote" href="#fn10">10</a></th>
+				<td>(noun) the thing one intends to convey especially by language, purport</td>
+				<td>(noun) something meant or intended, aim</td>
+				<td>(noun) significant quality</td>
+				<td>(noun) the logical connotation of a word or phrase</td>
+				<td>(adj) conveying or intended to convey meaning, significant, meaningful</td>
+				<td>content, denotation, drift, import, intent, purport, sense, significance, expressive, pregnant, eloquent, revealing, suggestive</td>
+			</tr>
+			<tr>
+				<th>Oxford Dictionary of English <a class="footnote" href="#fn9">9</a></th>
+				<td>(noun) what is meant by a word, text, concept, or action</td>
+				<td>(noun) implied or explicit significance</td>
+				<td>(noun) important or worthwhile quality; purpose</td>
+				<td>(adj) intended to communicate something that is not directly expressed</td>
+			</tr>
+			<tr>
+				<th>Cambridge Dictionary <a class="footnote" href="#fn20">20</a</th>
+				<td>The meaning of something is what it expresses or represents</td>
+				<td>importance or value</td>
+			</tr>
+			<tr>
+				<th>Cambridge Thesaurus <a class="footnote" href="#fn20">20</a</th>
+				<td>connotation, significance, sense, essence</td>
+				<td>focus, gravitas, salience, value, criticality, importance, proportion, status, weight, worth</td>
+			</tr>
+			<tr>
+				<th>Duden <a class="footnote" id="fn16ref" href="#fn16">16*</a></th>
+				<td>purpose inherent in actions, events, things, appearances</td>
+				<td>defining content of an image, description of words</td>
+				<td>weight, importance, interest, consequence</td>
+				<td>validity, image, worth</td>
+				<td>rank, content, sense, weight, position, importance, relevance, significance, attention, prestige, value, nimbus</td>
+			</tr>
+			<tr>
+				<th>Larousse <a class="footnote" id="fn17ref" href="#fn17">17*</a></th>
+				<td>Aptitude of knowing, appreciating something in an immediate and intuitive fashion</td>
+				<td>what someting signifies, body of ideas representing a sign, a symbol</td>
+				<td>what represents a word, object or state</td>
+				<td>reason of existing, value of something, which justifies it and explains it</td>
+			</tr>
+		</table>
+		
+		<section>
+		
+		<h5>Collection of definitions from dictionary sources. *translated from original language into English.</h5>
+		
+		<h3>Frequency</h3>
+		
+		<table id="def_frequency">
+			<tr>
+				<th>Function</th>
+				<th>Ritual</th>
+				<th>Myth</th>
+				<th>Meaning</th>
+			</tr>
+			<tr><!-- Frequency -->
+				<td>Purpose (13)</td>
+				<td>Ceremony (11)</td>
+				<td>Story (15)</td>
+				<td>Significance (12)</td>
+			</tr>
+			<tr>
+				<td>Work (11)</td>
+				<td>Religious (8)</td>
+				<td>Tale (9)</td>
+				<td>Worth, weight, value (11)</td>
+			</tr>
+			<tr>
+				<td>Operation (11)</td>
+				<td>Order (8)</td>
+				<td>Tradition (8)</td>
+				<td>Sense (5)</td>
+			</tr>
+			<tr>
+				<td>Task (7)</td>
+				<td>Actions (7)</td>
+				<td>Belief (6)</td>
+				<td>Importance (4)</td>
+			</tr>
+			<tr>
+				<td>Role (7)</td>
+				<td>Regular (7)</td>
+				<td>Imaginary (6)</td>
+				<td>Quality (3)</td>
+			</tr>
+		</table>
+		
+		<h3>Antonyms</h3>
 		
 		<table id="def_table">
 			<tr>
@@ -57,77 +379,11 @@
 				<th>Myth</th>
 				<th>Meaning</th>
 			</tr>
-			<tr>
-				<td>(noun) an activity or purpose natural to or intended for a person or thing <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
-				<td>(noun) a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
-				<td>(noun) a traditional story, especially one concerning the early history of a people or explaining some natural or social phenomenon, and typically involving supernatural beings or events <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
-				<td>(noun) what is meant by a word, text, concept, or action <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
-			</tr>
-			<tr>
-				<td>(verb) work or operate in a proper or particular way <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
-				<td>(adjective) arising from convention or habit <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
-				<td>(noun) an exaggerated or idealized conception of a person or thing <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
-				<td>(adjective) intended to communicate something that is not directly expressed <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
-			</tr>
-			<tr>
-				<td>Responsibility, Use, Duty, Activity, Job <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
-				<td>Performance, Practise, Convention, Procedure <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
-				<td>Story, Fiction, Tale <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
-				<td>Significance, Sense, Message, Substance, Essence <a class="footnote" id="fn8ref" href="#fn8">8</a></td>
-			</tr>
-			<tr>
+			<tr><!-- Antonyms -->
 				<td>≠ Idleness, Fun, Inertia <a class="footnote" id="fn13ref" href="#fn13">13</a></td>
 				<td>≠ Neglect, Disagreement, Discord <a class="footnote" id="fn13ref" href="#fn13">13</a></td>
 				<td>≠ Fact, Reality, Certainty <a class="footnote" id="fn13ref" href="#fn13">13</a></td>
 				<td>≠ Inexpressive, Empty, Vague, Worthless, Nameless, Obscure <a class="footnote" id="fn13ref" href="#fn13">13</a></td>
-			</tr>
-			<tr>
-				<td>the action for which a person or thing is specially fitted or used or for which a thing exists <a class="footnote" href="#fn10">10</a></td>
-				<td>a usual manner of behaving or doing <a class="footnote" id="fn10ref" href="#fn10">10</a></td>
-				<td>the body of customs, beliefs, stories, and sayings associated with a people, thing, or place <a class="footnote" href="#fn10">10</a></td>
-				<td>the thing one intends to convey especially by language <a class="footnote" href="#fn10">10</a></td>
-			</tr>
-			<tr>
-				<td>Anforderung, Arbeit, Aufgabe, Bestimmung, Pflicht, Rolle, Zweck <a class="footnote" id="fn14ref" href="#fn14">14</a></td>
-				<td>wiederholtes, immer gleichbleibendes, regelmäßiges Vorgehen nach einer festgelegten Ordnung; Zeremoniell <a class="footnote" id="fn15ref" href="#fn15">15</a></td>
-				<td>Person, Sache, Begebenheit, die (aus meist verschwommenen, irrationalen Vorstellungen heraus) glorifiziert wird, legendären Charakter hat <a class="footnote" id="fn16ref" href="#fn16">16</a></td>
-				<td>Sinn, der in Handlungen, Gegebenheiten, Dingen, Erscheinungen liegt <a class="footnote" id="fn16ref" href="#fn16">16</a></td>
-			</tr>
-			<tr>
-				<td>Requirement, Work, Task, Design, Duty, Role, Purpose <a class="footnote" id="fn14ref" href="#fn14">14*</td>
-				<td>repeating, unchanging, regular process in a fixed order; ceremonial <a class="footnote" id="fn15ref" href="#fn15">15*</a></td>
-				<td>Person, thing, event with a glorified, legendary character (often with blurry, irrational imagination) <a class="footnote" id="fn16ref" href="#fn16">16*</a></td>
-				<td>Underlying sense behind actions, events, things, appearances <a class="footnote" id="fn16ref" href="#fn16">16*</a></td>
-			</tr>
-			<tr>
-				<td>Fait de servir à quelque chose <a class="footnote" id="fn17ref" href="#fn17">17</a></td>
-				<td>Ensemble des règles et des habitudes fixées par la tradition  <a class="footnote" id="fn18ref" href="#fn18">18</a></td>
-				<td>Ensemble de croyances, de représentations idéalisées autour d'un personnage, d'un phénomène, d'un événement historique, d'une technique et qui leur donnent une force, une importance particulières <a class="footnote" id="fn19ref" href="#fn19">19</a></td>
-				<td>Ce que quelque chose signifie, ensemble d'idées que représente un signe, un symbole <a class="footnote" id="fn19ref" href="#fn19">19</a></td>
-			</tr>
-			<tr>
-				<td>Made to serve a purpose <a class="footnote" id="fn17ref" href="#fn17">17*</a></td>
-				<td>Body of rules and habits fixed by tradition  <a class="footnote" id="fn18ref" href="#fn18">18*</a></td>
-				<td>Body of beliefs, of idealised representations around a person, phenomenon, event or technique giving them a particular force and importance <a class="footnote" id="fn19ref" href="#fn19">19*</a></td>
-				<td>The sense of something, body of ideas a symbol represents <a class="footnote" id="fn19ref" href="#fn19">19*</a></td>
-			</tr>
-			<tr>
-				<td>the natural purpose (of something) or the duty (of a person) <a class="footnote" id="fn20ref" href="#fn20">20</a></td>
-				<td>a set of fixed actions and sometimes words performed regularly, especially as part of a ceremony <a class="footnote" id="fn21ref" href="#fn21">21</a></td>
-				<td>an ancient story or set of stories, especially explaining the early history of a group of people or about natural events and facts <a class="footnote" id="fn22ref" href="#fn22">22</a></td>
-				<td>The meaning of something is what it expresses or represents <a class="footnote" id="fn23ref" href="#fn23">23</a></td>				
-			</tr>
-			<tr>
-				<td>the way in which something works or operates <a class="footnote" id="fn20ref" href="#fn20">20</a></td>
-				<td>any act done regularly, usually without thinking about it <a class="footnote" id="fn21ref" href="#fn21">21</a></td>
-				<td>a commonly believed but false idea <a class="footnote" id="fn22ref" href="#fn22">22</a></td>
-				<td>importance or value <a class="footnote" id="fn23ref" href="#fn23">23</a></td>
-			</tr>
-			<tr>
-				<td>Goal, Purpose, Point, Objective, Utility <a class="footnote" id="fn20ref" href="#fn20">20</a></td>
-				<td>Habitual, Ceremony <a class="footnote" id="fn21ref" href="#fn21">21</a></td>
-				<td>Saga, Legend, Portrait, Story <a class="footnote" id="fn22ref" href="#fn22">22</a></td>
-				<td>Connotation, Significance, Essence, Sense, Value <a class="footnote" id="fn23ref" href="#fn23">23</a></td>
 			</tr>
 		</table>
 		
@@ -183,7 +439,7 @@
 			<tr>
 				<td>lft<span class='weight'>0.41</span></td>
 				<td class="x">ceremonial<span class='weight'>0.602</span></td>
-				<td>folktale<span class='weight'>0.518</span></td>
+				<td class="x">folktale<span class='weight'>0.518</span></td>
 				<td>denotation<span class='weight'>0.525</span></td>
 			</tr>
 			<tr>
