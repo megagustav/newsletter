@@ -50,8 +50,8 @@ Gustav</p>
     <li class="article_title">
       <div class="inline"><h2 class="index">005</h2></div>
       <div class="inline">
-        <h2 class="article_title_list"><a class="article_title unpublished">Draft</a></h2>
-        <h4 class="date">unpublished</h4>
+        <h2 class="article_title_list"><a class="article_title" href="issues/004">Dismissing Liver Function Tests</a></h2>
+        <h4 class="date">May 7th, 2020</h4>
       </div>
     </li>
   
