@@ -101,10 +101,10 @@
 
 <hr />
 
-<p>Self-described poly-jobist Beau Miles, in a <a href="https://youtu.be/EvT5XS7j-Dc">recently-watched video</a>, in smaller terms: </p>
+<p>Self-described poly-jobist Beau Miles, in a <a href="https://youtu.be/EvT5XS7j-Dc">recently-watched video</a>, in even grander terms: </p>
 
 <blockquote>
-<p>I often get asked &quot;why do you do things&quot;. Well, unless you're hunting for food or making a baby, there's no real point for anything. </p>
+<p>I often get asked &quot;why do you do things&quot;. Well, unless you're hunting for food or making a baby, there's no real point for anything.</p>
 </blockquote>
 
 <p>Beau's pragmatism helps me find motivation in this period of pandemic and puts <em>meaning</em> into perspective.</p>
