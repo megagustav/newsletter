@@ -8,7 +8,7 @@
   <!-- Add your site or application content here -->
   <p>Design for Meaning Journal:<br><br>
 
-While researching for the Design for Meaning Toolkit, I need a place to collect information and thoughts thereon. This is an open place. Notes are available as little newsletters about Design, Research, Critique, etc.<br><br>
+While researching for the <a href="https://formeaning.design/definitions/" target="_blank">Design for Meaning Toolkit</a>, I need a place to collect information and thoughts thereon. This is an open place. Notes are available as little newsletters about Design, Research, Critique, etc.<br><br>
 
 The goal is to have a conversation. I send you a message and hopefully spark something to inspire a reply. If you're keen to join me and a handful of others in this, you can sign up below.<br><br>
 
@@ -38,15 +38,6 @@ Gustav</p>
 
 <section class="article_list">
   <ul>
-  
-    <li class="article_title">
-      <div class="inline"><h2 class="index">DfM</h2></div>
-      <div class="inline">
-        <h2 class="article_title_list"><a class="article_title" href="issues/dfm">Design for Meaning Journal</a> (in progress)</h2>
-        <h4 class="date">Last updated March 24th, 2020</h4>
-      </div>
-    </li>
-
     <li class="article_title">
       <div class="inline"><h2 class="index">005</h2></div>
       <div class="inline">
