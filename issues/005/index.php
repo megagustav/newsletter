@@ -30,24 +30,24 @@
  <th>Myth</th>
  </tr>
  <tr>
- <th>Purpose</th>
- <th>Ceremony</th>
- <th>Fable</th>
+ <td>Purpose</td>
+ <td>Ceremony</td>
+ <td>Fable</td>
  </tr>
  <tr>
- <th>Task</th>
- <th>Habit</th>
- <th>Fiction</th>
+ <td>Task</td>
+ <td>Habit</td>
+ <td>Fiction</td>
  </tr>
  <tr>
- <th>Goal</th>
- <th>Tradition</th>
- <th>Legend</th>
+ <td>Goal</td>
+ <td>Tradition</td>
+ <td>Legend</td>
  </tr>
  <tr>
- <th>Duty</th>
- <th>Routine</th>
- <th>Lie</th>
+ <td>Duty</td>
+ <td>Routine</td>
+ <td>Lie</td>
  </tr>
 </table>
 
@@ -65,24 +65,24 @@
  <th>Myth</th>
  </tr>
  <tr>
- <th>LFT</th>
- <th>Wiccan</th>
- <th>Folkloristics</th>
+ <td>LFT</td>
+ <td>Wiccan</td>
+ <td>Folkloristics</td>
  </tr>
  <tr>
- <th>Parameter</th>
- <th>Bat Mitzvah</th>
- <th>Debunked</th>
+ <td>Parameter</td>
+ <td>Bat Mitzvah</td>
+ <td>Debunked</td>
  </tr>
  <tr>
- <th>Variable</th>
- <th>Whirling Dervishes</th>
- <th>Procris</th>
+ <td>Variable</td>
+ <td>Whirling Dervishes</td>
+ <td>Procris</td>
  </tr>
  <tr>
- <th>Boolean</th>
- <th>Sweat Lodge</th>
- <th>Menehune</th>
+ <td>Boolean</td>
+ <td>Sweat Lodge</td>
+ <td>Menehune</td>
  </tr>
 </table>
 <h5>Curated related word outliers from various dictionary sources</h5>
