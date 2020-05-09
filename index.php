@@ -10,7 +10,7 @@
 
 While researching for the <a href="https://formeaning.design/definitions/" target="_blank">Design for Meaning Toolkit</a>, I need a place to collect information and thoughts thereon. This is an open place. Notes are available as little newsletters about Design, Research, Critique, etc.<br><br>
 
-The goal is to have a conversation. I send you a message and hopefully spark something to inspire a reply. If you're keen to join me and a handful of others in this, you can sign up below.<br><br>
+The goal is to have a conversation.  I send you a message every other Thursday until August and hopefully spark something to inspire a reply. If you're keen to join me and a handful of others in this, you can sign up below.<br><br>
 
 Talk to you soon,<br>
 Gustav</p>
