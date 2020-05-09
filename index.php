@@ -18,7 +18,7 @@ Gustav</p>
 </section>
 
 <div class="signup">
-  <section class="signup">
+  <section>
     <form action="https://me.us20.list-manage.com/subscribe/post?u=f8bdb9fd2a918c631d9c2b072&amp;id=ad62296a48" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank">
 	  <input type="email" placeholder="email ＊" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
 	  <input type="text" placeholder="name" value="" name="MMERGE6" id="mce-MMERGE6">
