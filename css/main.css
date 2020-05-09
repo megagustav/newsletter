@@ -552,7 +552,7 @@ section {
 }
 
 section:first-child {
-	padding-top: 0em;
+	padding: 0em;
 }
 
 section.last {
