@@ -38,6 +38,15 @@ Gustav</p>
 
 <section class="article_list">
   <ul>
+  
+  	<li class="article_title">
+      <div class="inline"><h2 class="index">006</h2></div>
+      <div class="inline">
+        <h2 class="article_title_list"><a class="article_title" href="issues/006">Type Something Interesting or Shut Up</a></h2>
+        <h4 class="date">May 21st, 2020</h4>
+      </div>
+    </li>
+  	
     <li class="article_title">
       <div class="inline"><h2 class="index">005</h2></div>
       <div class="inline">
