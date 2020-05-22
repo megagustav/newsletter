@@ -30,12 +30,15 @@
 
 <p>The machine learns by looking at context, at surrounding words. That means it’s important to have a solid dataset. If our focus word is often found in close proximity to another word, chances are they’re related. This correlation can be weighted and output. That is what we see in the alphanumeric block above. </p>
 
-<h1>word embeddings</h1>
+<h1>Word Embeddings</h1>
 
 <p>Corpus-based semantic representations (word embeddings) use statistical patterns in the text to map words in a vector space. (<a href="https://repositorio.ufrn.br/jspui/bitstream/123456789/24164/1/SidartaRibeiro_Theinterpretationofdream_2017.pdf">Altszyler et al., 2017</a>) In the semantic word-space, terms with a similar meaning tend to form a cluster. This relies on the concept that words with similar meaning appear in similar contexts (<a href="https://www.tandfonline.com/doi/abs/10.1080/00437956.1954.11659520">Harris, 1954</a>).</p>
 
 <figure>
-<img src="function.gif" alt="" />
+  <img src="function.gif"/> 
+  <figcaption>
+    <h5>Three clusters: physical functions, mathematical functions, computer functions</h5>
+  </figcaption>
 </figure>
 
 <p>The <a href="http://projector.tensorflow.org">TensorFlow Embedding Projector</a> by <a href="https://ai.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html">Google AI (blogpost)</a> is an open-source tool for interactive 3D visualisation and interpretation of embeddings (<a href="https://arxiv.org/pdf/1611.05469v1.pdf">Smilkov et al., 2016</a>). Google’s Mikolov et al. are also the minds behind word2vec. </p>
@@ -45,7 +48,10 @@
 <p>Word2vec (<a href="https://arxiv.org/pdf/1301.3781.pdf">Mikolov et al., (2013)</a>) is used to produce word embeddings. It takes words from a corpus and produces a vector-space with hundreds of dimensions, each word having their unique vector. Words that are related by context in the corpus are located closely in the word-vector-space.</p>
 
 <figure>
-<img src="Screenshot%202020-05-22%20at%2000.25.44.png" alt="" />
+  <img src="redblue.png"/> 
+  <figcaption>
+    <h5>wikipedia2vec</h5>
+  </figcaption>
 </figure>
 
 <p>In this example of <a href="http://wikipedia2vec.github.io/">wikipedia2vec</a> (<a href="https://arxiv.org/pdf/1812.06280.pdf">Yamada et al., 2020</a>) shown in TensorFlow the circled blue arc of dots represents years, and the circled red cluster groups English football clubs!</p>
