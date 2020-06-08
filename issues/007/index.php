@@ -56,7 +56,7 @@
 
 <p><code>textcat.teach function.txt</code> again just gave me <code>textcat.teach: command not found</code> which got me to think that maybe I installed something wrong or needed to declare the python module that should be used to process the command. I thought being in my virtual environment was enough, but I tried <code>prodigy textcat less function.txt</code> nonetheless.</p>
 
-<p><code>✘ Can't find recipe or command 'textcat'.</code> <code>Similar recipes: textcat.eval, textcat.print-stream, textcat.print-dataset,textcat.batch-train, textcat.train-curve, textcat.teach, textcat.manual</code></p>
+<p><code>✘ Can't find recipe or command 'textcat'.<br />Similar recipes: textcat.eval, textcat.print-stream, textcat.print-dataset,textcat.batch-train, textcat.train-curve, textcat.teach, textcat.manual</code></p>
 
 <p>Aha! A different error message is good! So I tried <code>prodigy textcat.teach less function.txt</code> and got <code>✘ textcat.teach requires at least one --label</code>. At this point I went back to the tutorial video and started at that first line <code>.env $ textcat less insults.txt</code>. It’s so elegant! No need to refer to a specific module or recipe. Maybe I was thinking too much? So I simply type <code>less function.txt</code> and this promptly opens my <code>functions.txt</code> file. Of course! <code>less</code> is a Unix utility to edit text files. I keep putting off investing more time learning about Unix basics.</p>
 
@@ -66,11 +66,13 @@
 
 <p>Performing the next line (<code>prodigy dataset function_seeds &quot;comment&quot;</code>) in the tutorial worked flawlessly, but the third line, <code>prodigy terms.teach function_seeds en_vectors_web_lg --seeds function.txt</code>, gave me a new hiccup: <code>Can't find model 'en_vectors_web_lg'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.</code> Strange. I installed the large model earlier! Maybe the path is wrong, so I repeat my command as <code>prodigy terms.teach function_seeds nlp-env/lib/python3.7/site-packages/en_core_web_lg --seeds function.txt</code> and get <code>No such file or directory: 'nlp-env/lib/python3.7/site-packages/en_core_web_lg/tokenizer'</code>. It's just missing the tokeniser now, so I'm close.</p>
 
-<p><code>(nlp-env) spacefinder:nlp house$ prodigy terms.teach function_seeds nlp-env/lib/python3.7/site-packages/en_core_web_lg/en_core_web_lg-2.2.5 --seeds function.txt</code></p>
+<code><p>(nlp-env) spacefinder:nlp house$ prodigy terms.teach function_seeds nlp-env/lib/python3.7/site-packages/en_core_web_lg/en_core_web_lg-2.2.5 --seeds function.txt</p>
 
-<p><code>ℹ Initializing with 4 seed terms from function.txt</code></p>
+<p>ℹ Initializing with 4 seed terms from function.txt</p>
 
-<p><code>✨ Starting the web server at http://localhost:8080 ...</code> <code>Open the app in your browser and start annotating!</code></p>
+<p>✨ Starting the web server at http://localhost:8080 ...</p>
+
+<p>Open the app in your browser and start annotating!</p></code>
 
 <p>Aha!</p>
 

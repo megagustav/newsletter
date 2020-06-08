@@ -860,6 +860,8 @@ section.last {
 
 code {
 	background: black;
-	color: green;
+	color: lime;
 	border-radius: 3px;
+	padding: 0.15em;
+	font-size: 0.8em;
 }
