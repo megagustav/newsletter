@@ -866,7 +866,7 @@ p code {
 	font-size: 0.72em;
 }
 
-code p {
+code, code p {
 	background: black;
 	color: lime;
 	border-radius: 3px;
