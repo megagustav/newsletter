@@ -66,9 +66,9 @@
 
 <p>Performing the next line (<code>prodigy dataset function_seeds &quot;comment&quot;</code>) in the tutorial worked flawlessly, but the third line, <code>prodigy terms.teach function_seeds en_vectors_web_lg --seeds function.txt</code>, gave me a new hiccup: <code>Can't find model 'en_vectors_web_lg'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.</code> Strange. I installed the large model earlier! Maybe the path is wrong, so I repeat my command as <code>prodigy terms.teach function_seeds nlp-env/lib/python3.7/site-packages/en_core_web_lg --seeds function.txt</code> and get <code>No such file or directory: 'nlp-env/lib/python3.7/site-packages/en_core_web_lg/tokenizer'</code>. It's just missing the tokeniser now, so I'm close.</p>
 
-<code><p>(nlp-env) spacefinder:nlp house$ prodigy terms.teach function_seeds nlp-env/lib/python3.7/site-packages/en_core_web_lg/en_core_web_lg-2.2.5 --seeds function.txt <br />
-ℹ Initializing with 4 seed terms from function.txt <br />
-✨ Starting the web server at http://localhost:8080 ...<br />
+<code><p>(nlp-env) spacefinder:nlp house$ prodigy terms.teach function_seeds nlp-env/lib/python3.7/site-packages/en_core_web_lg/en_core_web_lg-2.2.5 --seeds function.txt <br /><br />
+ℹ Initializing with 4 seed terms from function.txt <br /><br />
+✨ Starting the web server at http://localhost:8080 ...<br /><br />
 Open the app in your browser and start annotating!</p></code>
 
 <p>Aha!</p>
