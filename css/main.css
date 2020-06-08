@@ -863,7 +863,7 @@ p code {
 	color: lime;
 	border-radius: 3px;
 	padding: 0.15em;
-	font-size: 0.7em;
+	font-size: 0.72em;
 }
 
 code p {
@@ -871,5 +871,5 @@ code p {
 	color: lime;
 	border-radius: 3px;
 	padding: 0.15em;
-	font-size: 1em;
+	font-size: 0.72em;
 }
