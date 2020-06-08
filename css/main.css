@@ -551,10 +551,6 @@ section {
 	z-index: 1;
 }
 
-section:first-child {
-	padding: 0em;
-}
-
 section.last {
 	padding-bottom: 2em;
 }
