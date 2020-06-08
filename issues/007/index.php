@@ -28,11 +28,11 @@
 
 <p>Explosion provide comprehensive documentation for all their tools, including a video tutorial on how to <a href="https://prodi.gy/docs/text-classification#video-insults-classifier">train your own insults classifier</a>. Also, I am partial to startups with nicely-designed websites.</p>
 
-<h1>The Plan</h1>
+<h3>The Plan</h3>
 
 <p>I have downloaded Prodigy and set up a Python tutorial environment on my machine. I will connect a pre-trained dataset that comes included with Prodigy and then feed it some words related to <em>function</em> and see what happens. The theory is that we can use Prodigy to train and guide the model to spit out results with increasing accuracy per iteration of training. We can repeat this process with different corpora.</p>
 
-<h1>The Execution</h1>
+<h3>The Execution</h3>
 
 <p>The first line in the <a href="https://prodi.gy/docs/text-classification#video-insults-classifier">tutorial</a> is <code>.env $ textcat less insults.txt</code></p>
 
@@ -75,7 +75,7 @@ Open the app in your browser and start annotating!</p></code>
 
 <p>So I do this for a while, also trying it on my phone by typing in my device name with the corresponding port, <code>spacefinder.local:8080</code>, as well as using <a href="http://localhost.run">localhost.run</a> to open up the port to the internet for others to contribute to the training. That worked too. The results were even collated between instances.</p>
 
-<h1>The Next</h1>
+<h3>The Next</h3>
 
 <p>So then, after a successful first try the logical next step is to delete what I have and start over, this time with experience. It is not necessary to install spaCy separately! The tutorial I was following has some deprecated features that I will need to update if I want to use the full potential of Prodigy. <code>--seeds</code> is now <code>--patterns</code> and allows for more detail like POS tagging: <code>{&quot;label&quot;: &quot;FUNCTION&quot;, &quot;pattern&quot;: [{&quot;lemma&quot;: &quot;function&quot;, &quot;pos&quot;: &quot;NOUN&quot;}]}</code>. I could not get this to work and went back to the old method for now, but knowing that my results could potentially be much better I can’t rest.</p>
 

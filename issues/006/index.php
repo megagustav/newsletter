@@ -30,7 +30,7 @@
 
 <p>The machine learns by looking at context, at surrounding words. That means it’s important to have a solid dataset. If our focus word is often found in close proximity to another word, chances are they’re related. This correlation can be weighted and output. That is what we see in the alphanumeric block above. </p>
 
-<h1>Word Embeddings</h1>
+<h3>Word Embeddings</h3>
 
 <p>Corpus-based semantic representations (word embeddings) use statistical patterns in the text to map words in a vector space. (<a href="https://repositorio.ufrn.br/jspui/bitstream/123456789/24164/1/SidartaRibeiro_Theinterpretationofdream_2017.pdf">Altszyler et al., 2017</a>) In the semantic word-space, terms with a similar meaning tend to form a cluster. This relies on the concept that words with similar meaning appear in similar contexts (<a href="https://www.tandfonline.com/doi/abs/10.1080/00437956.1954.11659520">Harris, 1954</a>).</p>
 
@@ -43,7 +43,7 @@
 
 <p>The <a href="http://projector.tensorflow.org">TensorFlow Embedding Projector</a> by <a href="https://ai.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html">Google AI (blogpost)</a> is an open-source tool for interactive 3D visualisation and interpretation of embeddings (<a href="https://arxiv.org/pdf/1611.05469v1.pdf">Smilkov et al., 2016</a>). Google’s Mikolov et al. are also the minds behind word2vec. </p>
 
-<h1>word2vec</h1>
+<h3>word2vec</h3>
 
 <p>Word2vec (<a href="https://arxiv.org/pdf/1301.3781.pdf">Mikolov et al., (2013)</a>) is used to produce word embeddings. It takes words from a corpus and produces a vector-space with hundreds of dimensions, each word having their unique vector. Words that are related by context in the corpus are located closely in the word-vector-space.</p>
 
@@ -56,7 +56,7 @@
 
 <p>In this example of <a href="http://wikipedia2vec.github.io/">wikipedia2vec</a> (<a href="https://arxiv.org/pdf/1812.06280.pdf">Yamada et al., 2020</a>) shown in TensorFlow the circled blue arc of dots represents years, and the circled red cluster groups English football clubs!</p>
 
-<h1>CBOW vs. Skip-Gram</h1>
+<h3>CBOW vs. Skip-Gram</h3>
 
 <p>Let’s have a look at an example sentence: “Neural word representations have proven useful in Natural Language Processing tasks due to their ability to efficiently model complex semantic and syntactic word relationships.” (<a href="https://arxiv.org/pdf/1511.06388.pdf">Trask et al. 2015</a>). Now let’s pick a focus word from the sentence: “model”.</p>
 
@@ -76,7 +76,7 @@
 
 <p>Another issue is that proximity can lead the machine to interpret relatedness as similarity. These attributes are not interchangeable: while <em>good</em> and <em>bad</em> are closely related, they do not at all mean the same thing. </p>
 
-<h1>sense2vec</h1>
+<h3>sense2vec</h3>
 
 <p>The work by <a href="http://dl.acm.org/citation.cfm?id=1857999.1858012">Reisinger &amp; Mooney (2010)</a> takes a new approach on vector-space <em>word-sense</em> disambiguation by first clustering the contexts in which a word appears to then encode multiple meanings, or <em>senses</em>, for polysemous words.
 The methods of <a href="https://www.aclweb.org/anthology/P15-2003.pdf">Chen et al. (2015)</a> or <a href="https://www.aclweb.org/anthology/P15-1173.pdf">Rothe and Schütze (2015)</a> use Princeton’s <a href="https://wordnet.princeton.edu">WordNet</a> to find the number of definitions a word has instead of looking at a preset number of clusters. These additional steps improve the quality of the output, but at the cost of heavier computation (<a href="https://arxiv.org/pdf/1511.06388.pdf">Trask, 2015</a>). </p>
@@ -85,7 +85,7 @@ The methods of <a href="https://www.aclweb.org/anthology/P15-2003.pdf">Chen et a
 
 <p>The model also features <em>sentiment</em> disambiguation. It can detect whether a word was meant sarcastically! </p>
 
-<h1>Finding a dataset</h1>
+<h3>Finding a dataset</h3>
 
 <p>All these algorithms and models (I still use the terms interchangeably because <a href="https://www.quora.com/What-is-the-difference-between-an-algorithm-and-a-model-in-machine-learning">I don’t understand their relationship</a> — is an algorithm composed of models or does an algorithm turn into a model once it’s fed data?) have little effect without a relevant dataset. The machine can only learn if it has good reading material. Most corpora we looked at have millions of words. Wikipedia currently has about 3.5 billion words.</p>
 
