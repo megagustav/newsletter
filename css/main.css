@@ -858,7 +858,7 @@ section.last {
 }
 
 
-code {
+code, p code, code p {
 	background: black;
 	color: lime;
 	border-radius: 3px;
