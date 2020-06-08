@@ -44,32 +44,32 @@
 
 <p>So I execute my first line <code>(nlp-env) spacefinder:nlp house$ textcat less function.txt</code>  </p>
 
-<code>-bash: textcat: command not found</code>
+<code><p>-bash: textcat: command not found</p></code>
 
 <p>I looked at that first line again <code>.env $ textcat less insults.txt</code>. <code>.env</code> is the virtual environment, <code>insults.txt</code> a seeds file with four words to point the model in the right direction for training. But the meaning of <code>textcat less</code> still eluded me.</p>
 
 <p>It took me well over an hour to figure out the anatomy of this first command, even through Ines is walking viewers through the video tutorial and I have my Terminal window open. I was stuck on the first line.</p>
 
-<code>textcat: command not found</code>
+<code><p>textcat: command not found</p></code>
 
 <p>At this point, I went to Google (“textcat python”) and did not get clear results. I read and reread the spaCy and Prodigy documentation. Looking at the documentation, the closest I could find was a recipe (a series of commands leading to the execution of a function) called <code>textcat.teach</code>. I performed a <code>pip search</code> (searching for installable python modules) for <code>textcat</code> and also got no response. Testing another query, <code>pip search nltk</code> gave me lots of results. It did not seem like <code>textcat</code> was an installable module but rather just an algorithm (or something) that’s part of NLP tools such as spaCy.</p>
 
 <p><code>textcat.teach function.txt</code> again just gave me <code>textcat.teach: command not found</code> which got me to think that maybe I installed something wrong or needed to declare the python module that should be used to process the command. I thought being in my virtual environment was enough, but I tried <code>prodigy textcat less function.txt</code> nonetheless.</p>
 
-<code>✘ Can't find recipe or command 'textcat'.<br />Similar recipes: textcat.eval, textcat.print-stream, textcat.print-dataset,textcat.batch-train, textcat.train-curve, textcat.teach, textcat.manual</code>
+<code><p>✘ Can't find recipe or command 'textcat'.<br />Similar recipes: textcat.eval, textcat.print-stream, textcat.print-dataset,textcat.batch-train, textcat.train-curve, textcat.teach, textcat.manual</p></code>
 
 <p>Aha! A different error message is good! So I tried <code>prodigy textcat.teach less function.txt</code> and got <code>✘ textcat.teach requires at least one --label</code>. At this point I went back to the tutorial video and started at that first line <code>.env $ textcat less insults.txt</code>. It’s so elegant! No need to refer to a specific module or recipe. Maybe I was thinking too much? So I simply type <code>less function.txt</code> and this promptly opens my <code>functions.txt</code> file. Of course! <code>less</code> is a Unix utility to edit text files. I keep putting off investing more time learning about Unix basics.</p>
 
-<code>(nlp-env) spacefinder:nlp house$ less function.txt</code>
+<code><p>(nlp-env) spacefinder:nlp house$ less function.txt</p></code>
 
 <p>Then, I had another look at the complete first line and could dissect its anatomy. My virtual environment is <code>(nlp-env)</code>, my device name is <code>spacefinder</code>, my working directory is <code>nlp</code> and my username <code>house</code>. The command I’m executing is <code>less</code> to open <code>function.txt</code>, a text file with three words: <em>function</em>, <em>task</em> and <em>use</em>.</p>
 
 <p>Performing the next line (<code>prodigy dataset function_seeds &quot;comment&quot;</code>) in the tutorial worked flawlessly, but the third line, <code>prodigy terms.teach function_seeds en_vectors_web_lg --seeds function.txt</code>, gave me a new hiccup: <code>Can't find model 'en_vectors_web_lg'. It doesn't seem to be a shortcut link, a Python package or a valid path to a data directory.</code> Strange. I installed the large model earlier! Maybe the path is wrong, so I repeat my command as <code>prodigy terms.teach function_seeds nlp-env/lib/python3.7/site-packages/en_core_web_lg --seeds function.txt</code> and get <code>No such file or directory: 'nlp-env/lib/python3.7/site-packages/en_core_web_lg/tokenizer'</code>. It's just missing the tokeniser now, so I'm close.</p>
 
-<code>(nlp-env) spacefinder:nlp house$ prodigy terms.teach function_seeds nlp-env/lib/python3.7/site-packages/en_core_web_lg/en_core_web_lg-2.2.5 --seeds function.txt <br /><br />
+<code><p>(nlp-env) spacefinder:nlp house$ prodigy terms.teach function_seeds nlp-env/lib/python3.7/site-packages/en_core_web_lg/en_core_web_lg-2.2.5 --seeds function.txt <br /><br />
 ℹ Initializing with 4 seed terms from function.txt <br /><br />
 ✨ Starting the web server at http://localhost:8080 ...<br /><br />
-Open the app in your browser and start annotating!</code>
+Open the app in your browser and start annotating!</p></code>
 
 <p>Aha!</p>
 
