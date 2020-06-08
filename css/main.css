@@ -858,3 +858,8 @@ section.last {
 }
 
 
+code {
+	background: black;
+	color: green;
+	border-radius: 3px;
+}

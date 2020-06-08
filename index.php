@@ -40,6 +40,14 @@ Gustav</p>
   <ul>
   
   	<li class="article_title">
+      <div class="inline"><h2 class="index">007</h2></div>
+      <div class="inline">
+        <h2 class="article_title_list"><a class="article_title" href="issues/007">A Reason to be Biased</a></h2>
+        <h4 class="date">June 8th, 2020</h4>
+      </div>
+    </li>
+  
+  	<li class="article_title">
       <div class="inline"><h2 class="index">006</h2></div>
       <div class="inline">
         <h2 class="article_title_list"><a class="article_title" href="issues/006">Type Something Interesting or Shut Up</a></h2>
